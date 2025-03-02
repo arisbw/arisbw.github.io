@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+This is my personal blog built with [Quarto](https://quarto.org). I use this space to share:
+
+- Technical tutorials
+- Data analysis
+- Personal thoughts
+- And more!
+
+Feel free to explore the posts and reach out if you have any questions!

@@ -1,0 +1,16 @@
+---
+title: "Personal Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  fields: [date, title, description, categories]
+  include:
+    categories: [personal, thoughts, life, news]
+---
+
+Welcome to my personal blog section! Here you'll find posts about my thoughts, experiences, and life journey.

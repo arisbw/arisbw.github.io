@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/data-analysis.html",
+      "/posts/machine-learning-intro.html",
+      "/posts/welcome-post.html",
+      "/posts/my-journey.html"
+    ]
+  },
+  {
+    "listing": "/personal-posts.html",
+    "items": [
+      "/posts/welcome-post.html",
+      "/posts/my-journey.html"
+    ]
+  },
+  {
+    "listing": "/data-posts.html",
+    "items": [
+      "/posts/data-analysis.html",
+      "/posts/machine-learning-intro.html"
+    ]
+  }
+]

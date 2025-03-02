@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+  render:
+    - "*.qmd"
+    - "*.ipynb"
+    - "!/.github/"
+    - "!/.venv/"
+  preview:
+    port: 4200
+    browser: true
+
+website:
+  title: "Aris Budi Wibowo"
+  site-url: "https://arisbw.github.io"
+  repo-url: "https://github.com/arisbw/arisbw.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Blog"
+        menu:
+          - text: "All Posts"
+            href: posts.qmd
+          - text: "Data & Tech"
+            href: data-posts.qmd
+          - text: "Personal"
+            href: personal-posts.qmd
+      - about.qmd
+      - resume.qmd
+
+format:
+  html:
+    execute:
+      echo: false
+      warning: false
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    include-before-body: _partials/before-body.html
+    include-in-header:
+      - text: |
+          <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            const toggleTheme = () => {
+              document.body.classList.toggle('quarto-light');
+              document.body.classList.toggle('quarto-dark');
+              localStorage.setItem('theme', document.body.classList.contains('quarto-light') ? 'light' : 'dark');
+            };
+
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            if (savedTheme === 'dark') {
+              document.body.classList.remove('quarto-light');
+              document.body.classList.add('quarto-dark');
+            }
+          });
+          </script>

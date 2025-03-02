@@ -1,0 +1,16 @@
+---
+title: "Data & Tech Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+  fields: [date, title, description, categories]
+  include:
+    categories: [python, data-analysis, machine-learning, tech]
+---
+
+Welcome to my Data & Tech blog section! Here you'll find posts about data analysis, programming, machine learning, and other technical topics.

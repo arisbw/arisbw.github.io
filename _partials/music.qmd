@@ -1,0 +1,30 @@
+### Music 🎵
+
+```{python}
+#| echo: false
+#| output: asis
+import json
+from datetime import datetime
+
+# Load music data
+try:
+    with open('/Users/arisbw/Documents/test-quarto/_data/music.json', 'r') as f:
+        music_data = json.load(f)
+    
+    last_updated = datetime.fromisoformat(music_data['last_updated'])
+    top_artists = music_data['top_artists']
+    
+    # Generate the music section content in the same style as other sections
+    artists = '\n'.join([f'- {artist["name"]} ({artist["playcount"]} plays)' for artist in top_artists])
+    
+    print(f'''
+{artists}
+
+<p class="text-muted" style="font-size: 0.875rem; margin-top: 1rem;">*Last updated: {last_updated.strftime('%Y-%m-%d')}*</p>
+''')
+
+except FileNotFoundError:
+    print("*Music data currently unavailable*")
+except Exception as e:
+    print("*Error loading music data*")
+```

@@ -1,0 +1,93 @@
+---
+title: "Aris Budi Wibowo"
+page-layout: full
+section-divs: false
+toc: false
+---
+
+::: {.content-block}
+
+::: {.hero-banner}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/assets/profile.jpg){.rounded-circle .profile-photo}
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+# Hi, I'm Aris! 👋
+
+Senior Data Analyst at ByteDance with expertise in data science and a passion for fintech innovation. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.
+
+::: {.social-links}
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/arisbw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/arisbw)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arisbw)
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.page-columns .page-full}
+
+## Recent Activities
+
+### Professional
+- 🎤 Speaker at PyCon APAC 2024 in Yogyakarta
+  - Topic: "Beyond A/B Testing: Alternative Ways to Measure Experiments"
+  - Discussed innovative approaches to experimentation in data science
+
+### Work
+- 📊 Senior Data Analyst at ByteDance
+  - Leading data-driven initiatives and experimentation frameworks
+  - Developing innovative methods for user behavior analysis
+  - Collaborating with cross-functional teams on fintech projects
+
+### Education
+- 🎓 Institut Teknologi Bandung (ITB)
+  - Focus on data science and analytics
+  - Research in machine learning applications
+
+### Open Source & Community
+- 📈 Active contributor to data science communities
+- 👨‍💻 Regular speaker at Python and data science meetups
+- ✍️ Technical writer sharing insights about data analysis and ML
+
+## What I'm Currently Into
+
+{{< include _partials/music.qmd >}}
+
+### Reading 📚
+- "Causal Machine Learning"
+- Latest research papers on experimentation methods
+- Technical blogs on data science and ML
+
+### Learning 💻
+- Advanced causal inference techniques
+- Bayesian experimentation methods
+- Large-scale data processing optimization
+
+### Projects 📈
+- Building experimentation frameworks
+- Developing ML models for user behavior analysis
+- Creating data visualization tools
+
+### Interests 🌟
+- Japanese Music & Culture
+- Data Visualization
+- Experimental Design
+- Alternative & Indie Music
+
+## Featured Posts
+
+:::{#featured-posts}
+:::
+
+:::
+
+:::

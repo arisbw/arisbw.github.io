@@ -1,0 +1,169 @@
+/* Custom CSS styles */
+/* Home page styles */
+.hero-banner {
+    padding: 2rem 0;
+    margin-bottom: 1.5rem;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid var(--border-color);
+    margin-bottom: 1rem;
+}
+
+.social-links {
+    margin-top: 1rem;
+}
+
+.social-links a {
+    margin-right: 0.5rem;
+    text-decoration: none;
+}
+
+.social-links img {
+    height: 30px;
+}
+
+.content-block {
+    padding: 0 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Light mode styles */
+body.quarto-light {
+    --text-color: #2c3e50;
+    --bg-color: #ffffff;
+    --link-color: #0d6efd;
+    --border-color: #dee2e6;
+    --category-bg: #e9ecef;
+}
+
+/* Dark mode styles */
+body.quarto-dark {
+    --text-color: #f8f9fa;
+    --bg-color: #212529;
+    --link-color: #6ea8fe;
+    --border-color: #495057;
+    --category-bg: #343a40;
+}
+
+/* Apply variables */
+body {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+
+.quarto-title {
+    color: var(--text-color);
+}
+
+.listing-category {
+    background-color: var(--category-bg);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.8em;
+}
+
+.nav-footer {
+    padding: 2em 0;
+    margin-top: 2em;
+    border-top: 1px solid var(--border-color);
+}
+
+/* Theme toggle button */
+.theme-toggle {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+    background: var(--bg-color);
+    border: 2px solid var(--border-color);
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    z-index: 1000;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.theme-toggle:hover {
+    transform: scale(1.1);
+}
+
+/* Resume styles */
+.btn-primary {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    color: #fff;
+    background-color: var(--link-color);
+    border-color: var(--link-color);
+    text-decoration: none;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.btn-primary:hover {
+    filter: brightness(90%);
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* PDF viewer styles */
+object[type="application/pdf"] {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 0.25rem;
+    margin: 1rem 0;
+}
+
+/* Resume styles */
+.btn-primary {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.btn-primary:hover {
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.ratio {
+    position: relative;
+    width: 100%;
+}
+
+.ratio::before {
+    display: block;
+    padding-top: var(--bs-aspect-ratio);
+    content: "";
+}
+
+.ratio > * {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+}

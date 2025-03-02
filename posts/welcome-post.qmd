@@ -1,0 +1,27 @@
+---
+title: "Welcome to My Blog!"
+author: "Me"
+date: "2025-03-01"
+categories: [news, personal]
+---
+
+This is my first blog post! I'm excited to start sharing content here.
+
+## Why I Started This Blog
+
+I created this blog to:
+
+1. Share my knowledge
+2. Document my learning journey
+3. Connect with others
+
+## What to Expect
+
+I'll be posting:
+
+- Technical tutorials
+- Data analysis projects
+- Personal insights
+- And much more!
+
+Stay tuned for more content!
