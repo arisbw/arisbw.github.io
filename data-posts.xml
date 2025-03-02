@@ -9,8 +9,75 @@
 <link>https://arisbw.github.io/data-posts.html</link>
 <atom:link href="https://arisbw.github.io/data-posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.5.56</generator>
-<lastBuildDate>Fri, 28 Feb 2025 17:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.13</generator>
+<lastBuildDate>Sat, 01 Mar 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Introduction to Machine Learning</title>
+  <dc:creator>Me </dc:creator>
+  <link>https://arisbw.github.io/posts/machine-learning-intro.html</link>
+  <description><![CDATA[ 
+<button onclick="toggleTheme()" class="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="5"></circle>
+    <line x1="12" y1="1" x2="12" y2="3"></line>
+    <line x1="12" y1="21" x2="12" y2="23"></line>
+    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+    <line x1="1" y1="12" x2="3" y2="12"></line>
+    <line x1="21" y1="12" x2="23" y2="12"></line>
+    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+  </svg>
+</button>
+
+
+
+
+<section id="introduction-to-machine-learning" class="level1">
+<h1>Introduction to Machine Learning</h1>
+<p>Machine learning is transforming the way we solve problems. Let’s explore the basics!</p>
+<section id="what-is-machine-learning" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-machine-learning">What is Machine Learning?</h2>
+<p>Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.</p>
+</section>
+<section id="types-of-machine-learning" class="level2">
+<h2 class="anchored" data-anchor-id="types-of-machine-learning">Types of Machine Learning</h2>
+<ol type="1">
+<li>Supervised Learning
+<ul>
+<li>Classification</li>
+<li>Regression</li>
+</ul></li>
+<li>Unsupervised Learning
+<ul>
+<li>Clustering</li>
+<li>Dimensionality Reduction</li>
+</ul></li>
+<li>Reinforcement Learning</li>
+</ol>
+</section>
+<section id="getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
+<p>To begin your machine learning journey, you’ll need:</p>
+<ul>
+<li>Python programming skills</li>
+<li>Understanding of basic statistics</li>
+<li>Knowledge of key libraries like scikit-learn</li>
+<li>Passion for data and problem-solving</li>
+</ul>
+<p>Stay tuned for more detailed posts about each of these topics!</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>python</category>
+  <category>machine-learning</category>
+  <category>tech</category>
+  <guid>https://arisbw.github.io/posts/machine-learning-intro.html</guid>
+  <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Basic Data Analysis with Python</title>
   <dc:creator>Me </dc:creator>
@@ -113,75 +180,8 @@
   <category>python</category>
   <category>data-analysis</category>
   <guid>https://arisbw.github.io/posts/data-analysis.html</guid>
-  <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
   <media:content url="https://arisbw.github.io/posts/matplotlib.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Introduction to Machine Learning</title>
-  <dc:creator>Me </dc:creator>
-  <link>https://arisbw.github.io/posts/machine-learning-intro.html</link>
-  <description><![CDATA[ 
-<button onclick="toggleTheme()" class="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="12" cy="12" r="5"></circle>
-    <line x1="12" y1="1" x2="12" y2="3"></line>
-    <line x1="12" y1="21" x2="12" y2="23"></line>
-    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-    <line x1="1" y1="12" x2="3" y2="12"></line>
-    <line x1="21" y1="12" x2="23" y2="12"></line>
-    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-  </svg>
-</button>
-
-
-
-
-<section id="introduction-to-machine-learning" class="level1">
-<h1>Introduction to Machine Learning</h1>
-<p>Machine learning is transforming the way we solve problems. Let’s explore the basics!</p>
-<section id="what-is-machine-learning" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-machine-learning">What is Machine Learning?</h2>
-<p>Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.</p>
-</section>
-<section id="types-of-machine-learning" class="level2">
-<h2 class="anchored" data-anchor-id="types-of-machine-learning">Types of Machine Learning</h2>
-<ol type="1">
-<li>Supervised Learning
-<ul>
-<li>Classification</li>
-<li>Regression</li>
-</ul></li>
-<li>Unsupervised Learning
-<ul>
-<li>Clustering</li>
-<li>Dimensionality Reduction</li>
-</ul></li>
-<li>Reinforcement Learning</li>
-</ol>
-</section>
-<section id="getting-started" class="level2">
-<h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
-<p>To begin your machine learning journey, you’ll need:</p>
-<ul>
-<li>Python programming skills</li>
-<li>Understanding of basic statistics</li>
-<li>Knowledge of key libraries like scikit-learn</li>
-<li>Passion for data and problem-solving</li>
-</ul>
-<p>Stay tuned for more detailed posts about each of these topics!</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>python</category>
-  <category>machine-learning</category>
-  <category>tech</category>
-  <guid>https://arisbw.github.io/posts/machine-learning-intro.html</guid>
-  <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
