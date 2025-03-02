@@ -8,7 +8,7 @@ from datetime import datetime
 
 # Load music data
 try:
-    with open('/Users/arisbw/Documents/test-quarto/_data/music.json', 'r') as f:
+    with open('_data/music.json', 'r') as f:
         music_data = json.load(f)
     
     last_updated = datetime.fromisoformat(music_data['last_updated'])
