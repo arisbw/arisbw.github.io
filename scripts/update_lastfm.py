@@ -9,7 +9,7 @@ load_dotenv()
 
 def get_top_artists(api_key, username, period='7day', limit=5):
     """Fetch top artists from Last.fm"""
-    url = 'http://ws.audioscrobbler.com/2.0/'
+    url = 'https://ws.audioscrobbler.com/2.0/'
     params = {
         'method': 'user.gettopartists',
         'user': username,
@@ -38,7 +38,7 @@ def get_top_artists(api_key, username, period='7day', limit=5):
 
 def get_recent_tracks(api_key, username, limit=10):
     """Fetch recent tracks from Last.fm"""
-    url = 'http://ws.audioscrobbler.com/2.0/'
+    url = 'https://ws.audioscrobbler.com/2.0/'
     params = {
         'method': 'user.getrecenttracks',
         'user': username,
