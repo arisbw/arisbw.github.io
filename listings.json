@@ -9,17 +9,17 @@
   {
     "listing": "/data-posts.html",
     "items": [
-      "/posts/machine-learning-intro.html",
-      "/posts/data-analysis.html"
+      "/posts/data-analysis.html",
+      "/posts/machine-learning-intro.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/data-analysis.html",
       "/posts/machine-learning-intro.html",
       "/posts/my-journey.html",
-      "/posts/welcome-post.html",
-      "/posts/data-analysis.html"
+      "/posts/welcome-post.html"
     ]
   }
 ]

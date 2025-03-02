@@ -9,8 +9,8 @@
 <link>https://arisbw.github.io/personal-posts.html</link>
 <atom:link href="https://arisbw.github.io/personal-posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.13</generator>
-<lastBuildDate>Sat, 01 Mar 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Fri, 28 Feb 2025 17:00:00 GMT</lastBuildDate>
 <item>
   <title>My Journey into Tech</title>
   <dc:creator>Me </dc:creator>
@@ -61,7 +61,7 @@
   <category>personal</category>
   <category>life</category>
   <guid>https://arisbw.github.io/posts/my-journey.html</guid>
-  <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+  <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Welcome to My Blog!</title>
@@ -113,7 +113,7 @@
   <category>news</category>
   <category>personal</category>
   <guid>https://arisbw.github.io/posts/welcome-post.html</guid>
-  <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+  <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
