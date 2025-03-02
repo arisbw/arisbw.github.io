@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Aris Budi Wibowo</title>
+<link>https://arisbw.github.io/data-posts.html</link>
+<atom:link href="https://arisbw.github.io/data-posts.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Fri, 28 Feb 2025 17:00:00 GMT</lastBuildDate>
+<item>
+  <title>Basic Data Analysis with Python</title>
+  <dc:creator>Me </dc:creator>
+  <link>https://arisbw.github.io/posts/data-analysis.html</link>
+  <description><![CDATA[ 
+<button onclick="toggleTheme()" class="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="5"></circle>
+    <line x1="12" y1="1" x2="12" y2="3"></line>
+    <line x1="12" y1="21" x2="12" y2="23"></line>
+    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+    <line x1="1" y1="12" x2="3" y2="12"></line>
+    <line x1="21" y1="12" x2="23" y2="12"></line>
+    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+  </svg>
+</button>
+
+
+
+
+<section id="basic-data-analysis-with-python" class="level1">
+<h1>Basic Data Analysis with Python</h1>
+<p>In this post, we’ll explore some basic data analysis using Python. We’ll use popular libraries like pandas and matplotlib to analyze and visualize data.</p>
+<section id="setup" class="level2">
+<h2 class="anchored" data-anchor-id="setup">Setup</h2>
+<p>First, let’s import the required libraries and create some sample data.</p>
+<div id="70b8888d" class="cell" data-execution="{&quot;iopub.execute_input&quot;:&quot;2025-03-02T07:13:51.898101Z&quot;,&quot;iopub.status.busy&quot;:&quot;2025-03-02T07:13:51.897909Z&quot;,&quot;iopub.status.idle&quot;:&quot;2025-03-02T07:13:52.422990Z&quot;,&quot;shell.execute_reply&quot;:&quot;2025-03-02T07:13:52.422662Z&quot;}" data-execution_count="1">
+<div class="cell-output cell-output-stdout">
+<pre><code>Our sample data:</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="1">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">year</th>
+<th data-quarto-table-cell-role="th">sales</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>2020</td>
+<td>100</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>2021</td>
+<td>120</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>2022</td>
+<td>140</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>2023</td>
+<td>180</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>2024</td>
+<td>210</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</section>
+<section id="data-visualization" class="level2">
+<h2 class="anchored" data-anchor-id="data-visualization">Data Visualization</h2>
+<p>Now let’s create a line plot to visualize the sales growth over the years.</p>
+<div id="49b9b5a8" class="cell" data-execution="{&quot;iopub.execute_input&quot;:&quot;2025-03-02T07:13:52.424854Z&quot;,&quot;iopub.status.busy&quot;:&quot;2025-03-02T07:13:52.424703Z&quot;,&quot;iopub.status.idle&quot;:&quot;2025-03-02T07:13:52.525713Z&quot;,&quot;shell.execute_reply&quot;:&quot;2025-03-02T07:13:52.525424Z&quot;}" data-execution_count="2">
+<div class="cell-output cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://arisbw.github.io/posts/data-analysis_files/figure-html/cell-3-output-1.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>We can see a clear upward trend in sales from 2020 to 2024, with particularly strong growth in recent years.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>python</category>
+  <category>data-analysis</category>
+  <guid>https://arisbw.github.io/posts/data-analysis.html</guid>
+  <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
+  <media:content url="https://arisbw.github.io/posts/matplotlib.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Introduction to Machine Learning</title>
+  <dc:creator>Me </dc:creator>
+  <link>https://arisbw.github.io/posts/machine-learning-intro.html</link>
+  <description><![CDATA[ 
+<button onclick="toggleTheme()" class="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="5"></circle>
+    <line x1="12" y1="1" x2="12" y2="3"></line>
+    <line x1="12" y1="21" x2="12" y2="23"></line>
+    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+    <line x1="1" y1="12" x2="3" y2="12"></line>
+    <line x1="21" y1="12" x2="23" y2="12"></line>
+    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+  </svg>
+</button>
+
+
+
+
+<section id="introduction-to-machine-learning" class="level1">
+<h1>Introduction to Machine Learning</h1>
+<p>Machine learning is transforming the way we solve problems. Let’s explore the basics!</p>
+<section id="what-is-machine-learning" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-machine-learning">What is Machine Learning?</h2>
+<p>Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.</p>
+</section>
+<section id="types-of-machine-learning" class="level2">
+<h2 class="anchored" data-anchor-id="types-of-machine-learning">Types of Machine Learning</h2>
+<ol type="1">
+<li>Supervised Learning
+<ul>
+<li>Classification</li>
+<li>Regression</li>
+</ul></li>
+<li>Unsupervised Learning
+<ul>
+<li>Clustering</li>
+<li>Dimensionality Reduction</li>
+</ul></li>
+<li>Reinforcement Learning</li>
+</ol>
+</section>
+<section id="getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
+<p>To begin your machine learning journey, you’ll need:</p>
+<ul>
+<li>Python programming skills</li>
+<li>Understanding of basic statistics</li>
+<li>Knowledge of key libraries like scikit-learn</li>
+<li>Passion for data and problem-solving</li>
+</ul>
+<p>Stay tuned for more detailed posts about each of these topics!</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>python</category>
+  <category>machine-learning</category>
+  <category>tech</category>
+  <guid>https://arisbw.github.io/posts/machine-learning-intro.html</guid>
+  <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
