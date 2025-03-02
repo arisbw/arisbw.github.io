@@ -54,6 +54,7 @@ body.quarto-dark {
 body {
     color: var(--text-color);
     background-color: var(--bg-color);
+    transition: color 0.3s ease, background-color 0.3s ease;
 }
 
 .quarto-title {
@@ -94,6 +95,7 @@ body {
 
 .theme-toggle:hover {
     transform: scale(1.1);
+    transition: transform 0.2s ease;
 }
 
 /* Resume styles */

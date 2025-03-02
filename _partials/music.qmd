@@ -12,15 +12,20 @@ try:
         music_data = json.load(f)
     
     last_updated = datetime.fromisoformat(music_data['last_updated'])
-    top_artists = music_data['top_artists']
+    top_artists = music_data['top_artists'][:3]  # Only show top 3
     
-    # Generate the music section content in the same style as other sections
+    # Generate the music section content
     artists = '\n'.join([f'- {artist["name"]} ({artist["playcount"]} plays)' for artist in top_artists])
     
     print(f'''
 {artists}
 
-<p class="text-muted" style="font-size: 0.875rem; margin-top: 1rem;">*Last updated: {last_updated.strftime('%Y-%m-%d')}*</p>
+<div style="display: flex; align-items: center; gap: 1rem; margin-top: 1rem;">
+  <a href="https://open.spotify.com/user/ynkaqmrfxb88i0hq6ujzjju8z" target="_blank" style="text-decoration: none;">
+    <img src="https://spotify-badge.vercel.app/api/spotify-badge" alt="Spotify Profile" style="height: 28px; border-radius: 4px;">
+  </a>
+  <span class="text-muted" style="font-size: 0.875rem;">*Updated: {last_updated.strftime('%Y-%m-%d')}*</span>
+</div>
 ''')
 
 except FileNotFoundError:
