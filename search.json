@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aris Budi Wibowo",
-    "section": "",
-    "text": "Hi, I’m Aris! 👋\nSenior Data Analyst at ByteDance with expertise in data science and a passion for fintech innovation. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.\n\n  \n\n\n\n\n\nRecent Activities\nProfessional\n\n🎤 Speaker at PyCon APAC 2024 in Yogyakarta\n\nTopic: “Beyond A/B Testing: Alternative Ways to Measure Experiments”\nDiscussed innovative approaches to experimentation in data science\n\n\nWork\n\n📊 Senior Data Analyst at ByteDance\n\nLeading data-driven initiatives and experimentation frameworks\nDeveloping innovative methods for user behavior analysis\nCollaborating with cross-functional teams on fintech projects\n\n\nEducation\n\n🎓 Institut Teknologi Bandung (ITB)\n\nFocus on data science and analytics\nResearch in machine learning applications\n\n\nOpen Source & Community\n\n📈 Active contributor to data science communities\n👨‍💻 Regular speaker at Python and data science meetups\n✍️ Technical writer sharing insights about data analysis and ML\n\nWhat I’m Currently Into\nMusic 🎵\n\nSpoon (84 plays)\nSuchmos (84 plays)\nMONDO GROSSO (37 plays)\nKing Krule (12 plays)\nKings of Convenience (5 plays)\n\n\nLast updated: 2025-03-02\n\nReading 📚\n\n“Causal Machine Learning”\nLatest research papers on experimentation methods\nTechnical blogs on data science and ML\n\nLearning 💻\n\nAdvanced causal inference techniques\nBayesian experimentation methods\nLarge-scale data processing optimization\n\nProjects 📈\n\nBuilding experimentation frameworks\nDeveloping ML models for user behavior analysis\nCreating data visualization tools\n\nInterests 🌟\n\nJapanese Music & Culture\nData Visualization\nExperimental Design\nAlternative & Indie Music\n\nFeatured Posts"
+    "objectID": "posts/data-analysis.html#setup",
+    "href": "posts/data-analysis.html#setup",
+    "title": "Basic Data Analysis with Python",
+    "section": "Setup",
+    "text": "Setup\nFirst, let’s import the required libraries and create some sample data.\n\n\nOur sample data:\n\n\n\n\n\n\n\n\n\nyear\nsales\n\n\n\n\n0\n2020\n100\n\n\n1\n2021\n120\n\n\n2\n2022\n140\n\n\n3\n2023\n180\n\n\n4\n2024\n210"
+  },
+  {
+    "objectID": "posts/data-analysis.html#data-visualization",
+    "href": "posts/data-analysis.html#data-visualization",
+    "title": "Basic Data Analysis with Python",
+    "section": "Data Visualization",
+    "text": "Data Visualization\nNow let’s create a line plot to visualize the sales growth over the years."
+  },
+  {
+    "objectID": "posts/data-analysis.html#conclusion",
+    "href": "posts/data-analysis.html#conclusion",
+    "title": "Basic Data Analysis with Python",
+    "section": "Conclusion",
+    "text": "Conclusion\nWe can see a clear upward trend in sales from 2020 to 2024, with particularly strong growth in recent years."
   },
   {
     "objectID": "posts/welcome-post.html",
@@ -53,7 +67,14 @@
     "href": "personal-posts.html",
     "title": "Personal Posts",
     "section": "",
-    "text": "Welcome to my personal blog section! Here you’ll find posts about my thoughts, experiences, and life journey.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nMy Journey into Tech\n\n\n\n\n\n\npersonal\n\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\nWelcome to My Blog!\n\n\n\n\n\n\nnews\n\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my personal blog section! Here you’ll find posts about my thoughts, experiences, and life journey.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nMy Journey into Tech\n\n\n\npersonal\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\nWelcome to My Blog!\n\n\n\nnews\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data-posts.html",
+    "href": "data-posts.html",
+    "title": "Data & Tech Posts",
+    "section": "",
+    "text": "Welcome to my Data & Tech blog section! Here you’ll find posts about data analysis, programming, machine learning, and other technical topics.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\npython\n\nmachine-learning\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\npython\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -63,39 +84,18 @@
     "text": "This is my personal blog built with Quarto. I use this space to share:\n\nTechnical tutorials\nData analysis\nPersonal thoughts\nAnd more!\n\nFeel free to explore the posts and reach out if you have any questions!"
   },
   {
-    "objectID": "posts/data-analysis.html#setup",
-    "href": "posts/data-analysis.html#setup",
-    "title": "Basic Data Analysis with Python",
-    "section": "Setup",
-    "text": "Setup\nFirst, let’s import the required libraries and create some sample data.\n\n\nOur sample data:\n\n\n\n\n\n\n\n\n\nyear\nsales\n\n\n\n\n0\n2020\n100\n\n\n1\n2021\n120\n\n\n2\n2022\n140\n\n\n3\n2023\n180\n\n\n4\n2024\n210"
-  },
-  {
-    "objectID": "posts/data-analysis.html#data-visualization",
-    "href": "posts/data-analysis.html#data-visualization",
-    "title": "Basic Data Analysis with Python",
-    "section": "Data Visualization",
-    "text": "Data Visualization\nNow let’s create a line plot to visualize the sales growth over the years."
-  },
-  {
-    "objectID": "posts/data-analysis.html#conclusion",
-    "href": "posts/data-analysis.html#conclusion",
-    "title": "Basic Data Analysis with Python",
-    "section": "Conclusion",
-    "text": "Conclusion\nWe can see a clear upward trend in sales from 2020 to 2024, with particularly strong growth in recent years."
-  },
-  {
-    "objectID": "data-posts.html",
-    "href": "data-posts.html",
-    "title": "Data & Tech Posts",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aris Budi Wibowo",
     "section": "",
-    "text": "Welcome to my Data & Tech blog section! Here you’ll find posts about data analysis, programming, machine learning, and other technical topics.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\n\n\n\npython\n\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\n\n\n\npython\n\n\nmachine-learning\n\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Hi, I’m Aris! 👋\nSenior Data Analyst at ByteDance with expertise in data science and a passion for fintech innovation. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.\n\n  \n\n\n\n\n\nRecent Activities\nProfessional\n\n🎤 Speaker at PyCon APAC 2024 in Yogyakarta\n\nTopic: “Beyond A/B Testing: Alternative Ways to Measure Experiments”\nDiscussed innovative approaches to experimentation in data science\n\n\nWork\n\n📊 Senior Data Analyst at ByteDance\n\nLeading data-driven initiatives and experimentation frameworks\nDeveloping innovative methods for user behavior analysis\nCollaborating with cross-functional teams on fintech projects\n\n\nEducation\n\n🎓 Institut Teknologi Bandung (ITB)\n\nFocus on data science and analytics\nResearch in machine learning applications\n\n\nOpen Source & Community\n\n📈 Active contributor to data science communities\n👨‍💻 Regular speaker at Python and data science meetups\n✍️ Technical writer sharing insights about data analysis and ML\n\nWhat I’m Currently Into\nMusic 🎵\nMusic data currently unavailable\nReading 📚\n\n“Causal Machine Learning”\nLatest research papers on experimentation methods\nTechnical blogs on data science and ML\n\nLearning 💻\n\nAdvanced causal inference techniques\nBayesian experimentation methods\nLarge-scale data processing optimization\n\nProjects 📈\n\nBuilding experimentation frameworks\nDeveloping ML models for user behavior analysis\nCreating data visualization tools\n\nInterests 🌟\n\nJapanese Music & Culture\nData Visualization\nExperimental Design\nAlternative & Indie Music\n\nFeatured Posts"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Blog Posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\n\n\n\npython\n\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\n\n\n\npython\n\n\nmachine-learning\n\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nMy Journey into Tech\n\n\n\n\n\n\npersonal\n\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My Blog!\n\n\n\n\n\n\nnews\n\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\npython\n\nmachine-learning\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nMy Journey into Tech\n\n\n\npersonal\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My Blog!\n\n\n\nnews\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\npython\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/my-journey.html#the-beginning",
