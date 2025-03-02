@@ -32,3 +32,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git add _data/music.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update music data" && git push)
+          
+      - name: Trigger site rebuild
+        if: success()
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: rebuild-site
