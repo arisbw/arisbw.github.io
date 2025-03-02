@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog Posts",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\n\n\n\npython\n\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\n\n\n\npython\n\n\nmachine-learning\n\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My Blog!\n\n\n\n\n\n\nnews\n\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nMy Journey into Tech\n\n\n\n\n\n\npersonal\n\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Aris Budi Wibowo",
     "section": "",
-    "text": "Hi, I’m Aris! 👋\nSenior Data Analyst at ByteDance with expertise in data science and a passion for fintech innovation. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.\n\n  \n\n\n\n\n\nRecent Activities\nProfessional\n\n🎤 Speaker at PyCon APAC 2024 in Yogyakarta\n\nTopic: “Beyond A/B Testing: Alternative Ways to Measure Experiments”\nDiscussed innovative approaches to experimentation in data science\n\n\nWork\n\n📊 Senior Data Analyst at ByteDance\n\nLeading data-driven initiatives and experimentation frameworks\nDeveloping innovative methods for user behavior analysis\nCollaborating with cross-functional teams on fintech projects\n\n\nEducation\n\n🎓 Institut Teknologi Bandung (ITB)\n\nFocus on data science and analytics\nResearch in machine learning applications\n\n\nOpen Source & Community\n\n📈 Active contributor to data science communities\n👨‍💻 Regular speaker at Python and data science meetups\n✍️ Technical writer sharing insights about data analysis and ML\n\nWhat I’m Currently Into\nMusic 🎵\n\nSpoon (84 plays)\nSuchmos (84 plays)\nMONDO GROSSO (37 plays)\nKing Krule (12 plays)\nKings of Convenience (5 plays)\n\n\nLast updated: 2025-03-02\n\nReading 📚\n\n“Causal Machine Learning”\nLatest research papers on experimentation methods\nTechnical blogs on data science and ML\n\nLearning 💻\n\nAdvanced causal inference techniques\nBayesian experimentation methods\nLarge-scale data processing optimization\n\nProjects 📈\n\nBuilding experimentation frameworks\nDeveloping ML models for user behavior analysis\nCreating data visualization tools\n\nInterests 🌟\n\nJapanese Music & Culture\nData Visualization\nExperimental Design\nAlternative & Indie Music\n\nFeatured Posts"
-  },
-  {
-    "objectID": "personal-posts.html",
-    "href": "personal-posts.html",
-    "title": "Personal Posts",
-    "section": "",
-    "text": "Welcome to my personal blog section! Here you’ll find posts about my thoughts, experiences, and life journey.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nWelcome to My Blog!\n\n\n\n\n\n\nnews\n\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\nMy Journey into Tech\n\n\n\n\n\n\npersonal\n\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Hi, I’m Aris! 👋\nSenior Data Analyst at ByteDance with expertise in data science and a passion for fintech innovation. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.\n\n   \n\n\n\n\n\nRecent Activities\n\n🎤 Speaking at PyCon APAC 2024: “Beyond A/B Testing” in Yogyakarta\n📊 Leading data initiatives and experimentation at ByteDance\n📈 Contributing to data science communities and speaking at meetups\n✍️ Writing about data analysis, ML, and experimentation\n\nWhat I’m Currently Into\nMusic 🎵\n\nSpoon (84 plays)\nSuchmos (84 plays)\nMONDO GROSSO (37 plays)\n\n\n    Spotify Profile  Updated: 2025-03-02\n\nReading 📚\n\n“Causal Machine Learning”\nLatest research papers on experimentation methods\nTechnical blogs on data science and ML\n\nLearning 💻\n\nAdvanced causal inference techniques\nBayesian experimentation methods\nLarge-scale data processing optimization\n\nProjects 📈\n\nBuilding experimentation frameworks\nDeveloping ML models for user behavior analysis\nCreating data visualization tools\n\nInterests 🌟\n\nJapanese Music & Culture\nData Visualization\nExperimental Design\nAlternative & Indie Music\n\nFeatured Posts\nIntroduction to Machine Learning\npython, machine-learning, tech\nWelcome to My Blog!\nnews, personal\nMy Journey into Tech\npersonal, life"
   },
   {
     "objectID": "posts/welcome-post.html",
@@ -42,6 +28,41 @@
     "text": "What to Expect\nI’ll be posting:\n\nTechnical tutorials\nData analysis projects\nPersonal insights\nAnd much more!\n\nStay tuned for more content!"
   },
   {
+    "objectID": "posts/machine-learning-intro.html#what-is-machine-learning",
+    "href": "posts/machine-learning-intro.html#what-is-machine-learning",
+    "title": "Introduction to Machine Learning",
+    "section": "What is Machine Learning?",
+    "text": "What is Machine Learning?\nMachine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed."
+  },
+  {
+    "objectID": "posts/machine-learning-intro.html#types-of-machine-learning",
+    "href": "posts/machine-learning-intro.html#types-of-machine-learning",
+    "title": "Introduction to Machine Learning",
+    "section": "Types of Machine Learning",
+    "text": "Types of Machine Learning\n\nSupervised Learning\n\nClassification\nRegression\n\nUnsupervised Learning\n\nClustering\nDimensionality Reduction\n\nReinforcement Learning"
+  },
+  {
+    "objectID": "posts/machine-learning-intro.html#getting-started",
+    "href": "posts/machine-learning-intro.html#getting-started",
+    "title": "Introduction to Machine Learning",
+    "section": "Getting Started",
+    "text": "Getting Started\nTo begin your machine learning journey, you’ll need:\n\nPython programming skills\nUnderstanding of basic statistics\nKnowledge of key libraries like scikit-learn\nPassion for data and problem-solving\n\nStay tuned for more detailed posts about each of these topics!"
+  },
+  {
+    "objectID": "personal-posts.html",
+    "href": "personal-posts.html",
+    "title": "Personal Posts",
+    "section": "",
+    "text": "Welcome to my personal blog section! Here you’ll find posts about my thoughts, experiences, and life journey.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nMy Journey into Tech\n\n\n\n\n\n\npersonal\n\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\nWelcome to My Blog!\n\n\n\n\n\n\nnews\n\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is my personal blog built with Quarto. I use this space to share:\n\nTechnical tutorials\nData analysis\nPersonal thoughts\nAnd more!\n\nFeel free to explore the posts and reach out if you have any questions!"
+  },
+  {
     "objectID": "posts/data-analysis.html#setup",
     "href": "posts/data-analysis.html#setup",
     "title": "Basic Data Analysis with Python",
@@ -63,32 +84,18 @@
     "text": "Conclusion\nWe can see a clear upward trend in sales from 2020 to 2024, with particularly strong growth in recent years."
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "data-posts.html",
+    "href": "data-posts.html",
+    "title": "Data & Tech Posts",
     "section": "",
-    "text": "You can view my resume directly on this page or download it as a PDF.\n\nDownload CV (PDF)\n\n\nPreview\n\n\nIt appears you don’t have a PDF plugin for this browser. You can click here to download the PDF file.\n\n\n\n\nContact Information\nFeel free to reach out to me through:\n\nEmail: your.email@example.com\nLinkedIn: Your LinkedIn Profile\nGitHub: Your GitHub Profile"
+    "text": "Welcome to my Data & Tech blog section! Here you’ll find posts about data analysis, programming, machine learning, and other technical topics.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\n\n\n\npython\n\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\n\n\n\npython\n\n\nmachine-learning\n\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/machine-learning-intro.html#what-is-machine-learning",
-    "href": "posts/machine-learning-intro.html#what-is-machine-learning",
-    "title": "Introduction to Machine Learning",
-    "section": "What is Machine Learning?",
-    "text": "What is Machine Learning?\nMachine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed."
-  },
-  {
-    "objectID": "posts/machine-learning-intro.html#types-of-machine-learning",
-    "href": "posts/machine-learning-intro.html#types-of-machine-learning",
-    "title": "Introduction to Machine Learning",
-    "section": "Types of Machine Learning",
-    "text": "Types of Machine Learning\n\nSupervised Learning\n\nClassification\nRegression\n\nUnsupervised Learning\n\nClustering\nDimensionality Reduction\n\nReinforcement Learning"
-  },
-  {
-    "objectID": "posts/machine-learning-intro.html#getting-started",
-    "href": "posts/machine-learning-intro.html#getting-started",
-    "title": "Introduction to Machine Learning",
-    "section": "Getting Started",
-    "text": "Getting Started\nTo begin your machine learning journey, you’ll need:\n\nPython programming skills\nUnderstanding of basic statistics\nKnowledge of key libraries like scikit-learn\nPassion for data and problem-solving\n\nStay tuned for more detailed posts about each of these topics!"
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\n\n\n\npython\n\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\n\n\n\npython\n\n\nmachine-learning\n\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nMy Journey into Tech\n\n\n\n\n\n\npersonal\n\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My Blog!\n\n\n\n\n\n\nnews\n\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/my-journey.html#the-beginning",
@@ -112,17 +119,10 @@
     "text": "What’s Next\nI’m excited to continue growing and learning. Through this blog, I hope to:\n\nShare my personal experiences\nDocument my learning journey\nConnect with like-minded individuals"
   },
   {
-    "objectID": "data-posts.html",
-    "href": "data-posts.html",
-    "title": "Data & Tech Posts",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "Welcome to my Data & Tech blog section! Here you’ll find posts about data analysis, programming, machine learning, and other technical topics.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\n\n\n\npython\n\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\n\n\n\npython\n\n\nmachine-learning\n\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is my personal blog built with Quarto. I use this space to share:\n\nTechnical tutorials\nData analysis\nPersonal thoughts\nAnd more!\n\nFeel free to explore the posts and reach out if you have any questions!"
+    "text": "You can view my resume directly on this page or download it as a PDF.\n\nDownload CV (PDF)\n\n\nPreview\n\n\nIt appears you don’t have a PDF plugin for this browser. You can click here to download the PDF file.\n\n\n\n\nContact Information\nFeel free to reach out to me through:\n\nEmail: your.email@example.com\nLinkedIn: Your LinkedIn Profile\nGitHub: Your GitHub Profile"
   }
 ]

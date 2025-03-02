@@ -25,6 +25,7 @@ Senior Data Analyst at ByteDance with expertise in data science and a passion fo
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/arisbw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/arisbw)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arisbw)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/ynkaqmrfxb88i0hq6ujzjju8z)
 :::
 
 :::
@@ -37,26 +38,10 @@ Senior Data Analyst at ByteDance with expertise in data science and a passion fo
 
 ## Recent Activities
 
-### Professional
-- 🎤 Speaker at PyCon APAC 2024 in Yogyakarta
-  - Topic: "Beyond A/B Testing: Alternative Ways to Measure Experiments"
-  - Discussed innovative approaches to experimentation in data science
-
-### Work
-- 📊 Senior Data Analyst at ByteDance
-  - Leading data-driven initiatives and experimentation frameworks
-  - Developing innovative methods for user behavior analysis
-  - Collaborating with cross-functional teams on fintech projects
-
-### Education
-- 🎓 Institut Teknologi Bandung (ITB)
-  - Focus on data science and analytics
-  - Research in machine learning applications
-
-### Open Source & Community
-- 📈 Active contributor to data science communities
-- 👨‍💻 Regular speaker at Python and data science meetups
-- ✍️ Technical writer sharing insights about data analysis and ML
+- 🎤 Speaking at PyCon APAC 2024: "Beyond A/B Testing" in Yogyakarta
+- 📊 Leading data initiatives and experimentation at ByteDance
+- 📈 Contributing to data science communities and speaking at meetups
+- ✍️ Writing about data analysis, ML, and experimentation
 
 ## What I'm Currently Into
 
@@ -85,8 +70,53 @@ Senior Data Analyst at ByteDance with expertise in data science and a passion fo
 
 ## Featured Posts
 
-:::{#featured-posts}
-:::
+```{python}
+#| echo: false
+#| output: asis
+import os
+import json
+from datetime import datetime
+
+def get_post_info(qmd_file):
+    with open(qmd_file, 'r') as f:
+        content = f.read()
+        # Get YAML front matter
+        if content.startswith('---'):
+            _, front_matter, _ = content.split('---', 2)
+            try:
+                import yaml
+                metadata = yaml.safe_load(front_matter)
+                return {
+                    'title': metadata.get('title', ''),
+                    'description': metadata.get('description', ''),
+                    'date': metadata.get('date', ''),
+                    'categories': metadata.get('categories', []),
+                    'file': qmd_file
+                }
+            except:
+                return None
+    return None
+
+# Get all posts
+posts = []
+for root, dirs, files in os.walk('posts'):
+    for file in files:
+        if file.endswith('.qmd'):
+            post_info = get_post_info(os.path.join(root, file))
+            if post_info:
+                posts.append(post_info)
+
+# Sort by date and get latest 3
+posts.sort(key=lambda x: x['date'], reverse=True)
+featured_posts = posts[:3]
+
+# Generate HTML
+for post in featured_posts:
+    print(f"### [{post['title']}]({post['file']})")  
+    if post['description']:
+        print(f"{post['description']}\n")
+    print(f"*{', '.join(post['categories'])}*\n")
+```
 
 :::
 

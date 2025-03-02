@@ -12,7 +12,7 @@ try:
         music_data = json.load(f)
     
     last_updated = datetime.fromisoformat(music_data['last_updated'])
-    top_artists = music_data['top_artists'][:3]  # Only show top 3
+    top_artists = music_data['top_artists'][:5]  # Show top 5
     
     # Generate the music section content
     artists = '\n'.join([f'- {artist["name"]} ({artist["playcount"]} plays)' for artist in top_artists])
