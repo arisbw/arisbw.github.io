@@ -69,21 +69,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const toggleTheme = () => {
-    document.body.classList.toggle('quarto-light');
-    document.body.classList.toggle('quarto-dark');
-    localStorage.setItem('theme', document.body.classList.contains('quarto-light') ? 'light' : 'dark');
-  };
-
-  const savedTheme = localStorage.getItem('theme') || 'light';
-  if (savedTheme === 'dark') {
-    document.body.classList.remove('quarto-light');
-    document.body.classList.add('quarto-dark');
-  }
-});
-</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -152,19 +137,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
-<button onclick="toggleTheme()" class="theme-toggle" title="Toggle dark mode" aria-label="Toggle dark mode">
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="12" cy="12" r="5"></circle>
-    <line x1="12" y1="1" x2="12" y2="3"></line>
-    <line x1="12" y1="21" x2="12" y2="23"></line>
-    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-    <line x1="1" y1="12" x2="3" y2="12"></line>
-    <line x1="21" y1="12" x2="23" y2="12"></line>
-    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-  </svg>
-</button>
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -211,7 +184,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <h2 id="what-im-currently-into" class="anchored">What I’m Currently Into</h2>
 <h3 id="music" class="anchored">Music 🎵</h3>
 <ul>
-<li>Spoon (101 plays)</li>
+<li>Spoon (105 plays)</li>
 <li>Suchmos (84 plays)</li>
 <li>MONDO GROSSO (37 plays)</li>
 <li>King Krule (12 plays)</li>

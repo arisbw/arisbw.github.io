@@ -1,24 +1,31 @@
 [
   {
+    "objectID": "posts/data-analysis.html",
+    "href": "posts/data-analysis.html",
+    "title": "Basic Data Analysis with Python",
+    "section": "",
+    "text": "In this post, we’ll explore some basic data analysis using Python. We’ll use popular libraries like pandas and matplotlib to analyze and visualize data.\n\n\nFirst, let’s import the required libraries and create some sample data.\n\n\nOur sample data:\n\n\n\n\n\n\n\n\n\nyear\nsales\n\n\n\n\n0\n2020\n100\n\n\n1\n2021\n120\n\n\n2\n2022\n140\n\n\n3\n2023\n180\n\n\n4\n2024\n210\n\n\n\n\n\n\n\n\n\n\nNow let’s create a line plot to visualize the sales growth over the years.\n\n\n\n\n\n\n\n\n\n\n\n\nWe can see a clear upward trend in sales from 2020 to 2024, with particularly strong growth in recent years."
+  },
+  {
     "objectID": "posts/data-analysis.html#setup",
     "href": "posts/data-analysis.html#setup",
     "title": "Basic Data Analysis with Python",
-    "section": "Setup",
-    "text": "Setup\nFirst, let’s import the required libraries and create some sample data.\n\n\nOur sample data:\n\n\n\n\n\n\n\n\n\nyear\nsales\n\n\n\n\n0\n2020\n100\n\n\n1\n2021\n120\n\n\n2\n2022\n140\n\n\n3\n2023\n180\n\n\n4\n2024\n210"
+    "section": "",
+    "text": "First, let’s import the required libraries and create some sample data.\n\n\nOur sample data:\n\n\n\n\n\n\n\n\n\nyear\nsales\n\n\n\n\n0\n2020\n100\n\n\n1\n2021\n120\n\n\n2\n2022\n140\n\n\n3\n2023\n180\n\n\n4\n2024\n210"
   },
   {
     "objectID": "posts/data-analysis.html#data-visualization",
     "href": "posts/data-analysis.html#data-visualization",
     "title": "Basic Data Analysis with Python",
-    "section": "Data Visualization",
-    "text": "Data Visualization\nNow let’s create a line plot to visualize the sales growth over the years."
+    "section": "",
+    "text": "Now let’s create a line plot to visualize the sales growth over the years."
   },
   {
     "objectID": "posts/data-analysis.html#conclusion",
     "href": "posts/data-analysis.html#conclusion",
     "title": "Basic Data Analysis with Python",
-    "section": "Conclusion",
-    "text": "Conclusion\nWe can see a clear upward trend in sales from 2020 to 2024, with particularly strong growth in recent years."
+    "section": "",
+    "text": "We can see a clear upward trend in sales from 2020 to 2024, with particularly strong growth in recent years."
   },
   {
     "objectID": "posts/welcome-post.html",
@@ -42,25 +49,32 @@
     "text": "What to Expect\nI’ll be posting:\n\nTechnical tutorials\nData analysis projects\nPersonal insights\nAnd much more!\n\nStay tuned for more content!"
   },
   {
+    "objectID": "posts/machine-learning-intro.html",
+    "href": "posts/machine-learning-intro.html",
+    "title": "Introduction to Machine Learning",
+    "section": "",
+    "text": "Machine learning is transforming the way we solve problems. Let’s explore the basics!\n\n\nMachine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.\n\n\n\n\nSupervised Learning\n\nClassification\nRegression\n\nUnsupervised Learning\n\nClustering\nDimensionality Reduction\n\nReinforcement Learning\n\n\n\n\nTo begin your machine learning journey, you’ll need:\n\nPython programming skills\nUnderstanding of basic statistics\nKnowledge of key libraries like scikit-learn\nPassion for data and problem-solving\n\nStay tuned for more detailed posts about each of these topics!"
+  },
+  {
     "objectID": "posts/machine-learning-intro.html#what-is-machine-learning",
     "href": "posts/machine-learning-intro.html#what-is-machine-learning",
     "title": "Introduction to Machine Learning",
-    "section": "What is Machine Learning?",
-    "text": "What is Machine Learning?\nMachine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed."
+    "section": "",
+    "text": "Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed."
   },
   {
     "objectID": "posts/machine-learning-intro.html#types-of-machine-learning",
     "href": "posts/machine-learning-intro.html#types-of-machine-learning",
     "title": "Introduction to Machine Learning",
-    "section": "Types of Machine Learning",
-    "text": "Types of Machine Learning\n\nSupervised Learning\n\nClassification\nRegression\n\nUnsupervised Learning\n\nClustering\nDimensionality Reduction\n\nReinforcement Learning"
+    "section": "",
+    "text": "Supervised Learning\n\nClassification\nRegression\n\nUnsupervised Learning\n\nClustering\nDimensionality Reduction\n\nReinforcement Learning"
   },
   {
     "objectID": "posts/machine-learning-intro.html#getting-started",
     "href": "posts/machine-learning-intro.html#getting-started",
     "title": "Introduction to Machine Learning",
-    "section": "Getting Started",
-    "text": "Getting Started\nTo begin your machine learning journey, you’ll need:\n\nPython programming skills\nUnderstanding of basic statistics\nKnowledge of key libraries like scikit-learn\nPassion for data and problem-solving\n\nStay tuned for more detailed posts about each of these topics!"
+    "section": "",
+    "text": "To begin your machine learning journey, you’ll need:\n\nPython programming skills\nUnderstanding of basic statistics\nKnowledge of key libraries like scikit-learn\nPassion for data and problem-solving\n\nStay tuned for more detailed posts about each of these topics!"
   },
   {
     "objectID": "personal-posts.html",
@@ -88,7 +102,7 @@
     "href": "index.html",
     "title": "Aris Budi Wibowo",
     "section": "",
-    "text": "Hi, I’m Aris! 👋\nSenior Data Analyst at ByteDance with expertise in data science and a passion for fintech innovation. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.\n\n   \n\n\n\n\n\nRecent Activities\n\n🎤 Speaking at PyCon APAC 2024: “Beyond A/B Testing” in Yogyakarta\n📊 Leading data initiatives and experimentation at ByteDance\n📈 Contributing to data science communities and speaking at meetups\n✍️ Writing about data analysis, ML, and experimentation\n\nWhat I’m Currently Into\nMusic 🎵\n\nSpoon (101 plays)\nSuchmos (84 plays)\nMONDO GROSSO (37 plays)\nKing Krule (12 plays)\nKings of Convenience (5 plays)\n\n\n    Spotify Profile  Updated: 2025-03-02\n\nReading 📚\n\n“Causal Machine Learning”\nLatest research papers on experimentation methods\nTechnical blogs on data science and ML\n\nLearning 💻\n\nAdvanced causal inference techniques\nBayesian experimentation methods\nLarge-scale data processing optimization\n\nProjects 📈\n\nBuilding experimentation frameworks\nDeveloping ML models for user behavior analysis\nCreating data visualization tools\n\nInterests 🌟\n\nJapanese Music & Culture\nData Visualization\nExperimental Design\nAlternative & Indie Music\n\nFeatured Posts\nIntroduction to Machine Learning\npython, machine-learning, tech\nWelcome to My Blog!\nnews, personal\nMy Journey into Tech\npersonal, life"
+    "text": "Hi, I’m Aris! 👋\nSenior Data Analyst at ByteDance with expertise in data science and a passion for fintech innovation. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.\n\n   \n\n\n\n\n\nRecent Activities\n\n🎤 Speaking at PyCon APAC 2024: “Beyond A/B Testing” in Yogyakarta\n📊 Leading data initiatives and experimentation at ByteDance\n📈 Contributing to data science communities and speaking at meetups\n✍️ Writing about data analysis, ML, and experimentation\n\nWhat I’m Currently Into\nMusic 🎵\n\nSpoon (105 plays)\nSuchmos (84 plays)\nMONDO GROSSO (37 plays)\nKing Krule (12 plays)\nKings of Convenience (5 plays)\n\n\n    Spotify Profile  Updated: 2025-03-02\n\nReading 📚\n\n“Causal Machine Learning”\nLatest research papers on experimentation methods\nTechnical blogs on data science and ML\n\nLearning 💻\n\nAdvanced causal inference techniques\nBayesian experimentation methods\nLarge-scale data processing optimization\n\nProjects 📈\n\nBuilding experimentation frameworks\nDeveloping ML models for user behavior analysis\nCreating data visualization tools\n\nInterests 🌟\n\nJapanese Music & Culture\nData Visualization\nExperimental Design\nAlternative & Indie Music\n\nFeatured Posts\nIntroduction to Machine Learning\npython, machine-learning, tech\nWelcome to My Blog!\nnews, personal\nMy Journey into Tech\npersonal, life"
   },
   {
     "objectID": "posts.html",
@@ -98,25 +112,32 @@
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIntroduction to Machine Learning\n\n\n\npython\n\nmachine-learning\n\ntech\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nMy Journey into Tech\n\n\n\npersonal\n\nlife\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My Blog!\n\n\n\nnews\n\npersonal\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\n\n\n\n\n\n\n\nBasic Data Analysis with Python\n\n\n\npython\n\ndata-analysis\n\n\n\nA tutorial on basic data analysis using Python, pandas, and matplotlib\n\n\n\n\n\nMar 1, 2025\n\n\nMe\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "posts/my-journey.html",
+    "href": "posts/my-journey.html",
+    "title": "My Journey into Tech",
+    "section": "",
+    "text": "Everyone has a unique story about how they got into technology. Here’s mine!\n\n\nI’ve always been fascinated by computers and technology since I was young. What started as curiosity has grown into a passion for creating and building things.\n\n\n\nNow, I spend my time learning new technologies, building projects, and sharing my knowledge with others through this blog.\n\n\n\nI’m excited to continue growing and learning. Through this blog, I hope to:\n\nShare my personal experiences\nDocument my learning journey\nConnect with like-minded individuals"
+  },
+  {
     "objectID": "posts/my-journey.html#the-beginning",
     "href": "posts/my-journey.html#the-beginning",
     "title": "My Journey into Tech",
-    "section": "The Beginning",
-    "text": "The Beginning\nI’ve always been fascinated by computers and technology since I was young. What started as curiosity has grown into a passion for creating and building things."
+    "section": "",
+    "text": "I’ve always been fascinated by computers and technology since I was young. What started as curiosity has grown into a passion for creating and building things."
   },
   {
     "objectID": "posts/my-journey.html#current-path",
     "href": "posts/my-journey.html#current-path",
     "title": "My Journey into Tech",
-    "section": "Current Path",
-    "text": "Current Path\nNow, I spend my time learning new technologies, building projects, and sharing my knowledge with others through this blog."
+    "section": "",
+    "text": "Now, I spend my time learning new technologies, building projects, and sharing my knowledge with others through this blog."
   },
   {
     "objectID": "posts/my-journey.html#whats-next",
     "href": "posts/my-journey.html#whats-next",
     "title": "My Journey into Tech",
-    "section": "What’s Next",
-    "text": "What’s Next\nI’m excited to continue growing and learning. Through this blog, I hope to:\n\nShare my personal experiences\nDocument my learning journey\nConnect with like-minded individuals"
+    "section": "",
+    "text": "I’m excited to continue growing and learning. Through this blog, I hope to:\n\nShare my personal experiences\nDocument my learning journey\nConnect with like-minded individuals"
   },
   {
     "objectID": "resume.html",
