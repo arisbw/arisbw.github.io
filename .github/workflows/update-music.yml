@@ -2,7 +2,7 @@ name: Update Music Data
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Run every Monday at midnight UTC (7 AM Jakarta Time)
+    - cron: '0 17 * * 0'  # Run every Sunday at 17:00 UTC (Monday 12:00 AM Jakarta Time)
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
