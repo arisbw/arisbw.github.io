@@ -22,6 +22,10 @@ You can view my resume directly on this page or download it as a PDF.
 
 Feel free to reach out to me through:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: <script type="text/javascript">
+    var user = "arisbw";
+    var domain = "gmail.com";  // Change this to your actual provider
+    document.write('<a href="mailto:' + user + '@' + domain + '">' + user + '@' + domain + '</a>');
+  </script><noscript>[Email protected - please enable JavaScript]</noscript>
+- LinkedIn: [Aris Budi Wibowo](https://linkedin.com/in/arisbw)
+- GitHub: [@arisbw](https://github.com/arisbw)
