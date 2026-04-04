@@ -8,14 +8,15 @@
 <title>Aris Budi Wibowo</title>
 <link>https://arisbw.github.io/data-posts.html</link>
 <atom:link href="https://arisbw.github.io/data-posts.xml" rel="self" type="application/rss+xml"/>
-<description></description>
-<generator>quarto-1.7.13</generator>
+<description>Senior Data Analyst | Data Science, ML, and Experimentation.</description>
+<generator>quarto-1.10.1</generator>
 <lastBuildDate>Sat, 01 Mar 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Introduction to Machine Learning</title>
   <dc:creator>Me </dc:creator>
   <link>https://arisbw.github.io/posts/machine-learning-intro.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -76,13 +77,14 @@
 
 
 
+
 <section id="basic-data-analysis-with-python" class="level1">
 <h1>Basic Data Analysis with Python</h1>
 <p>In this post, we’ll explore some basic data analysis using Python. We’ll use popular libraries like pandas and matplotlib to analyze and visualize data.</p>
 <section id="setup" class="level2">
 <h2 class="anchored" data-anchor-id="setup">Setup</h2>
 <p>First, let’s import the required libraries and create some sample data.</p>
-<div id="70b8888d" class="cell" data-execution="{&quot;iopub.execute_input&quot;:&quot;2025-03-02T07:13:51.898101Z&quot;,&quot;iopub.status.busy&quot;:&quot;2025-03-02T07:13:51.897909Z&quot;,&quot;iopub.status.idle&quot;:&quot;2025-03-02T07:13:52.422990Z&quot;,&quot;shell.execute_reply&quot;:&quot;2025-03-02T07:13:52.422662Z&quot;}" data-execution_count="1">
+<div id="70b8888d" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;execution&quot;,&quot;value&quot;:{&quot;iopub.execute_input&quot;:&quot;2025-03-02T07:13:51.898101Z&quot;,&quot;iopub.status.busy&quot;:&quot;2025-03-02T07:13:51.897909Z&quot;,&quot;iopub.status.idle&quot;:&quot;2025-03-02T07:13:52.422990Z&quot;,&quot;shell.execute_reply&quot;:&quot;2025-03-02T07:13:52.422662Z&quot;}}" data-execution_count="1">
 <div class="cell-output cell-output-stdout">
 <pre><code>Our sample data:</code></pre>
 </div>
@@ -90,7 +92,7 @@
 <div>
 
 
-<table class="dataframe caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<table class="dataframe caption-top table table-sm table-striped small" data-border="1">
 <thead>
 <tr class="header">
 <th data-quarto-table-cell-role="th"></th>
@@ -100,27 +102,27 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">0</td>
+<th data-quarto-table-cell-role="th">0</th>
 <td>2020</td>
 <td>100</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">1</td>
+<th data-quarto-table-cell-role="th">1</th>
 <td>2021</td>
 <td>120</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">2</td>
+<th data-quarto-table-cell-role="th">2</th>
 <td>2022</td>
 <td>140</td>
 </tr>
 <tr class="even">
-<td data-quarto-table-cell-role="th">3</td>
+<th data-quarto-table-cell-role="th">3</th>
 <td>2023</td>
 <td>180</td>
 </tr>
 <tr class="odd">
-<td data-quarto-table-cell-role="th">4</td>
+<th data-quarto-table-cell-role="th">4</th>
 <td>2024</td>
 <td>210</td>
 </tr>
@@ -134,7 +136,7 @@
 <section id="data-visualization" class="level2">
 <h2 class="anchored" data-anchor-id="data-visualization">Data Visualization</h2>
 <p>Now let’s create a line plot to visualize the sales growth over the years.</p>
-<div id="49b9b5a8" class="cell" data-execution="{&quot;iopub.execute_input&quot;:&quot;2025-03-02T07:13:52.424854Z&quot;,&quot;iopub.status.busy&quot;:&quot;2025-03-02T07:13:52.424703Z&quot;,&quot;iopub.status.idle&quot;:&quot;2025-03-02T07:13:52.525713Z&quot;,&quot;shell.execute_reply&quot;:&quot;2025-03-02T07:13:52.525424Z&quot;}" data-execution_count="2">
+<div id="49b9b5a8" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;execution&quot;,&quot;value&quot;:{&quot;iopub.execute_input&quot;:&quot;2025-03-02T07:13:52.424854Z&quot;,&quot;iopub.status.busy&quot;:&quot;2025-03-02T07:13:52.424703Z&quot;,&quot;iopub.status.idle&quot;:&quot;2025-03-02T07:13:52.525713Z&quot;,&quot;shell.execute_reply&quot;:&quot;2025-03-02T07:13:52.525424Z&quot;}}" data-execution_count="2">
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">

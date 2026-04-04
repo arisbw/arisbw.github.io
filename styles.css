@@ -11,15 +11,28 @@
     object-fit: cover;
     border: 3px solid var(--border-color);
     margin-bottom: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.profile-photo:hover {
+    transform: scale(1.02);
 }
 
 .social-links {
     margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
 }
 
 .social-links a {
-    margin-right: 0.5rem;
     text-decoration: none;
+    transition: transform 0.2s ease, opacity 0.2s;
+}
+
+.social-links a:hover {
+    transform: translateY(-2px);
+    opacity: 0.85;
 }
 
 .social-links img {
@@ -43,11 +56,11 @@ body.quarto-light {
 
 /* Dark mode styles */
 body.quarto-dark {
-    --text-color: #f8f9fa;
-    --bg-color: #212529;
-    --link-color: #6ea8fe;
-    --border-color: #495057;
-    --category-bg: #343a40;
+    --text-color: #e2e8f0;     /* Soft slate text for reduced eye strain */
+    --bg-color: #0f172a;       /* Deep slate background */
+    --link-color: #38bdf8;     /* Sky blue for links */
+    --border-color: #334155;   /* Subtle slate border */
+    --category-bg: #1e293b;    /* Highlight background */
 }
 
 /* Apply variables */
@@ -102,28 +115,6 @@ object[type="application/pdf"] {
     border: 1px solid var(--border-color);
     border-radius: 0.25rem;
     margin: 1rem 0;
-}
-
-/* Resume styles */
-.btn-primary {
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    margin: 1rem 0;
-    color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
-    text-decoration: none;
-    border-radius: 0.25rem;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
-}
-
-.btn-primary:hover {
-    background-color: #0b5ed7;
-    border-color: #0a58ca;
-}
-
-.text-center {
-    text-align: center;
 }
 
 .ratio {

@@ -8,14 +8,15 @@
 <title>Aris Budi Wibowo</title>
 <link>https://arisbw.github.io/personal-posts.html</link>
 <atom:link href="https://arisbw.github.io/personal-posts.xml" rel="self" type="application/rss+xml"/>
-<description></description>
-<generator>quarto-1.7.13</generator>
+<description>Senior Data Analyst | Data Science, ML, and Experimentation.</description>
+<generator>quarto-1.10.1</generator>
 <lastBuildDate>Sat, 01 Mar 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>My Journey into Tech</title>
   <dc:creator>Me </dc:creator>
   <link>https://arisbw.github.io/posts/my-journey.html</link>
   <description><![CDATA[ 
+
 
 
 
@@ -56,6 +57,7 @@
   <dc:creator>Me </dc:creator>
   <link>https://arisbw.github.io/posts/welcome-post.html</link>
   <description><![CDATA[ 
+
 
 
 
