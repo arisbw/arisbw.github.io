@@ -11,15 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
         with:
-          python-version: '3.x'
+          enable-cache: true
+          
+      - name: Set up Python
+        run: uv python install 3.10
           
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          uv sync
+          echo "$PWD/.venv/bin" >> $GITHUB_PATH
           
       - name: Update music data
         env:
@@ -32,10 +35,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git add _data/music.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update music data" && git push)
-          
-      - name: Trigger site rebuild
-        if: success()
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          event-type: rebuild-site
+

@@ -14,8 +14,11 @@ project:
 
 website:
   title: "Aris Budi Wibowo"
+  description: "Senior Data Analyst | Data Science, ML, and Experimentation."
   site-url: "https://arisbw.github.io"
   repo-url: "https://github.com/arisbw/arisbw.github.io"
+  twitter-card: true
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
@@ -37,6 +40,7 @@ format:
     execute:
       echo: false
       warning: false
+      freeze: auto
     theme:
       light: cosmo
       dark: darkly

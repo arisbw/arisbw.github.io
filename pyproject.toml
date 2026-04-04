@@ -1,0 +1,13 @@
+[project]
+name = "arisbw-github-io"
+version = "0.1.0"
+description = "Personal website"
+requires-python = ">=3.10"
+dependencies = [
+    "requests==2.31.0",
+    "python-dotenv==1.0.0",
+    "jupyter>=1.0.0",
+    "ipykernel>=6.0.0",
+    "nbformat>=5.0.0",
+    "pyyaml>=6.0.0"
+]

@@ -3,6 +3,16 @@ title: "Aris Budi Wibowo"
 page-layout: full
 section-divs: false
 toc: false
+listing:
+  - id: featured-posts
+    contents: posts
+    sort: "date desc"
+    type: default
+    max-items: 3
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [date, title, description, categories]
 ---
 
 ::: {.content-block}
@@ -70,53 +80,8 @@ Senior Data Analyst at ByteDance with expertise in data science and a passion fo
 
 ## Featured Posts
 
-```{python}
-#| echo: false
-#| output: asis
-import os
-import json
-from datetime import datetime
-
-def get_post_info(qmd_file):
-    with open(qmd_file, 'r') as f:
-        content = f.read()
-        # Get YAML front matter
-        if content.startswith('---'):
-            _, front_matter, _ = content.split('---', 2)
-            try:
-                import yaml
-                metadata = yaml.safe_load(front_matter)
-                return {
-                    'title': metadata.get('title', ''),
-                    'description': metadata.get('description', ''),
-                    'date': metadata.get('date', ''),
-                    'categories': metadata.get('categories', []),
-                    'file': qmd_file
-                }
-            except:
-                return None
-    return None
-
-# Get all posts
-posts = []
-for root, dirs, files in os.walk('posts'):
-    for file in files:
-        if file.endswith('.qmd'):
-            post_info = get_post_info(os.path.join(root, file))
-            if post_info:
-                posts.append(post_info)
-
-# Sort by date and get latest 3
-posts.sort(key=lambda x: x['date'], reverse=True)
-featured_posts = posts[:3]
-
-# Generate HTML
-for post in featured_posts:
-    print(f"### [{post['title']}]({post['file']})")  
-    if post['description']:
-        print(f"{post['description']}\n")
-    print(f"*{', '.join(post['categories'])}*\n")
-```
+:::{#featured-posts}
+:::
 
 :::
 
