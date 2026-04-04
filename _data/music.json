@@ -1,0 +1,92 @@
+{
+  "last_updated": "2026-04-04T09:58:52.589414",
+  "top_artists": [
+    {
+      "name": "\u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc",
+      "playcount": 25,
+      "url": "https://www.last.fm/music/%E3%82%B5%E3%83%B3%E3%83%9C%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC"
+    },
+    {
+      "name": "Chicago",
+      "playcount": 22,
+      "url": "https://www.last.fm/music/Chicago"
+    },
+    {
+      "name": "\u7167\u4e95\u9806\u653f",
+      "playcount": 21,
+      "url": "https://www.last.fm/music/%E7%85%A7%E4%BA%95%E9%A0%86%E6%94%BF"
+    },
+    {
+      "name": "The National",
+      "playcount": 9,
+      "url": "https://www.last.fm/music/The+National"
+    },
+    {
+      "name": "Bobby Caldwell",
+      "playcount": 7,
+      "url": "https://www.last.fm/music/Bobby+Caldwell"
+    }
+  ],
+  "recent_tracks": [
+    {
+      "artist": "The Cure",
+      "name": "Friday I'm in Love",
+      "album": "Wish",
+      "url": "https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love"
+    },
+    {
+      "artist": "Third Eye Blind",
+      "name": "Semi-Charmed Life",
+      "album": "Third Eye Blind",
+      "url": "https://www.last.fm/music/Third+Eye+Blind/_/Semi-Charmed+Life"
+    },
+    {
+      "artist": "Stealers Wheel",
+      "name": "Stuck in the Middle With You",
+      "album": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+      "url": "https://www.last.fm/music/Stealers+Wheel/_/Stuck+in+the+Middle+With+You"
+    },
+    {
+      "artist": "Lionel Richie",
+      "name": "All Night Long (All Night) - Single Version",
+      "album": "The Definitive Collection",
+      "url": "https://www.last.fm/music/Lionel+Richie/_/All+Night+Long+(All+Night)+-+Single+Version"
+    },
+    {
+      "artist": "Maxine Nightingale",
+      "name": "Right Back Where We Started From",
+      "album": "Right Back Where We Started From",
+      "url": "https://www.last.fm/music/Maxine+Nightingale/_/Right+Back+Where+We+Started+From"
+    },
+    {
+      "artist": "Soft Cell",
+      "name": "Tainted Love - Remastered 2023",
+      "album": "Non-Stop Erotic Cabaret",
+      "url": "https://www.last.fm/music/Soft+Cell/_/Tainted+Love+-+Remastered+2023"
+    },
+    {
+      "artist": "Queen",
+      "name": "Under Pressure - Remastered 2011",
+      "album": "Hot Space (2011 Remaster)",
+      "url": "https://www.last.fm/music/Queen/_/Under+Pressure+-+Remastered+2011"
+    },
+    {
+      "artist": "Toto",
+      "name": "Africa",
+      "album": "Toto IV",
+      "url": "https://www.last.fm/music/Toto/_/Africa"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "name": "Go Your Own Way",
+      "album": "Greatest Hits",
+      "url": "https://www.last.fm/music/Fleetwood+Mac/_/Go+Your+Own+Way"
+    },
+    {
+      "artist": "Aerosmith",
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "album": "Armageddon - The Album",
+      "url": "https://www.last.fm/music/Aerosmith/_/I+Don%27t+Want+to+Miss+a+Thing+-+From+%22Armageddon%22+Soundtrack"
+    }
+  ]
+}
