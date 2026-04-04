@@ -23,41 +23,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -140,8 +105,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     }
   })
   </script>
-<script type="module" src="site_libs/quarto-ojs/quarto-ojs-runtime.js"></script>
-<link href="site_libs/quarto-ojs/quarto-ojs.css" rel="stylesheet">
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -454,39 +417,34 @@ window.Quarto = {
 </ul>
 <h2 id="what-im-currently-into" class="anchored">What I’m Currently Into</h2>
 <h3 id="music" class="anchored">Music 🎵</h3>
-<div class="cell" data-code-copy="false">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb1" data-startfrom="64" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 63;"><span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a>musicData <span class="op">=</span> <span class="cf">await</span> <span class="fu">FileAttachment</span>(<span class="st">"_data/music.json"</span>)<span class="op">.</span><span class="fu">json</span>()</span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a><span class="fu">html</span><span class="vs">`</span></span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;ul&gt;</span></span>
-<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a><span class="vs">  </span><span class="sc">${</span>musicData<span class="op">.</span><span class="at">top_artists</span><span class="op">.</span><span class="fu">slice</span>(<span class="dv">0</span><span class="op">,</span><span class="dv">5</span>)<span class="op">.</span><span class="fu">map</span>(artist <span class="kw">=&gt;</span> <span class="vs">`&lt;li&gt;</span><span class="sc">${</span>artist<span class="op">.</span><span class="at">name</span><span class="sc">}</span><span class="vs"> (</span><span class="sc">${</span>artist<span class="op">.</span><span class="at">playcount</span><span class="sc">}</span><span class="vs"> plays)&lt;/li&gt;`</span>)<span class="op">.</span><span class="fu">join</span>(<span class="st">''</span>)<span class="sc">}</span></span>
-<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/ul&gt;</span></span>
-<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;div style="display: flex; align-items: center; gap: 1rem; margin-top: 1rem;"&gt;</span></span>
-<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;a href="https://open.spotify.com/user/ynkaqmrfxb88i0hq6ujzjju8z" target="_blank" class="btn btn-success btn-sm" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; padding: 0.25rem 0.75rem; border-radius: 1.5rem;"&gt;</span></span>
-<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"&gt;</span></span>
-<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.662-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.764 1.288z"/&gt;</span></span>
-<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;/svg&gt;</span></span>
-<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a><span class="vs">    Spotify Profile</span></span>
-<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;/a&gt;</span></span>
-<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;span class="text-muted" style="font-size: 0.875rem;"&gt;*Updated: </span><span class="sc">${</span>musicData<span class="op">.</span><span class="at">last_updated</span><span class="op">.</span><span class="fu">substring</span>(<span class="dv">0</span><span class="op">,</span><span class="dv">10</span>)<span class="sc">}</span><span class="vs">*&lt;/span&gt;</span></span>
-<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/div&gt;</span></span>
-<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a><span class="vs">`</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="cell-output cell-output-display">
-<div>
-<div id="ojs-cell-1-1" data-nodetype="declaration">
-
+<div id="music-container">
+<em>Loading latest music…</em>
 </div>
-</div>
-</div>
-<div class="cell-output cell-output-display">
-<div>
-<div id="ojs-cell-1-2" data-nodetype="expression">
-
-</div>
-</div>
-</div>
-</div>
+<script>
+  fetch('_data/music.json')
+    .then(response => response.json())
+    .then(data => {
+      const listItems = data.top_artists.slice(0,5).map(artist => `<li>${artist.name} (${artist.playcount} plays)</li>`).join('');
+      const updatedDate = data.last_updated.substring(0, 10);
+      
+      const html = `
+        <ul>${listItems}</ul>
+        <div style="display: flex; align-items: center; gap: 1rem; margin-top: 1rem;">
+          <a href="https://open.spotify.com/user/ynkaqmrfxb88i0hq6ujzjju8z" target="_blank" class="btn btn-success btn-sm" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; padding: 0.25rem 0.75rem; border-radius: 1.5rem;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+              <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.662-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.764 1.288z"/>
+            </svg>
+            Spotify Profile
+          </a>
+          <span class="text-muted" style="font-size: 0.875rem;">*Updated: ${updatedDate}*</span>
+        </div>
+      `;
+      document.getElementById('music-container').innerHTML = html;
+    })
+    .catch(error => {
+      document.getElementById('music-container').innerHTML = '<em>Music data temporarily unavailable.</em>';
+    });
+</script>
 <h3 id="reading" class="anchored">Reading 📚</h3>
 <ul>
 <li>“Causal Machine Learning”</li>
@@ -515,7 +473,7 @@ window.Quarto = {
 <h2 id="featured-posts" class="anchored">Featured Posts</h2>
 <div id="listing-featured-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cHl0aG9uJTJDbWFjaGluZS1sZWFybmluZyUyQ3RlY2g=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775297245583" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<div class="quarto-post image-right" data-index="0" data-categories="cHl0aG9uJTJDbWFjaGluZS1sZWFybmluZyUyQ3RlY2g=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775297588294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/machine-learning-intro.html" class="no-external">Introduction to Machine Learning</a>
@@ -541,7 +499,7 @@ Mar 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="cGVyc29uYWwlMkNsaWZl" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775297245583" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<div class="quarto-post image-right" data-index="1" data-categories="cGVyc29uYWwlMkNsaWZl" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775297588294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/my-journey.html" class="no-external">My Journey into Tech</a>
@@ -565,7 +523,7 @@ Mar 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ3BlcnNvbmFs" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775297245583" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ3BlcnNvbmFs" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775297588294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/welcome-post.html" class="no-external">Welcome to My Blog!</a>
@@ -599,17 +557,6 @@ Mar 1, 2025
 
 
 </main> <!-- /main -->
-<script type="ojs-module-contents">
-eyJjb250ZW50cyI6W3sibWV0aG9kTmFtZSI6ImludGVycHJldCIsImNlbGxOYW1lIjoib2pzLWNlbGwtMSIsImlubGluZSI6ZmFsc2UsInNvdXJjZSI6Im11c2ljRGF0YSA9IGF3YWl0IEZpbGVBdHRhY2htZW50KFwiX2RhdGEvbXVzaWMuanNvblwiKS5qc29uKClcblxuaHRtbGBcbjx1bD5cbiAgJHttdXNpY0RhdGEudG9wX2FydGlzdHMuc2xpY2UoMCw1KS5tYXAoYXJ0aXN0ID0+IGA8bGk+JHthcnRpc3QubmFtZX0gKCR7YXJ0aXN0LnBsYXljb3VudH0gcGxheXMpPC9saT5gKS5qb2luKCcnKX1cbjwvdWw+XG5cbjxkaXYgc3R5bGU9XCJkaXNwbGF5OiBmbGV4OyBhbGlnbi1pdGVtczogY2VudGVyOyBnYXA6IDFyZW07IG1hcmdpbi10b3A6IDFyZW07XCI+XG4gIDxhIGhyZWY9XCJodHRwczovL29wZW4uc3BvdGlmeS5jb20vdXNlci95bmthcW1yZnhiODhpMGhxNnVqempqdTh6XCIgdGFyZ2V0PVwiX2JsYW5rXCIgY2xhc3M9XCJidG4gYnRuLXN1Y2Nlc3MgYnRuLXNtXCIgc3R5bGU9XCJkaXNwbGF5OiBpbmxpbmUtZmxleDsgYWxpZ24taXRlbXM6IGNlbnRlcjsgZ2FwOiAwLjVyZW07IHRleHQtZGVjb3JhdGlvbjogbm9uZTsgcGFkZGluZzogMC4yNXJlbSAwLjc1cmVtOyBib3JkZXItcmFkaXVzOiAxLjVyZW07XCI+XG4gICAgPHN2ZyB4bWxucz1cImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnXCIgd2lkdGg9XCIxNlwiIGhlaWdodD1cIjE2XCIgZmlsbD1cImN1cnJlbnRDb2xvclwiIHZpZXdCb3g9XCIwIDAgMTYgMTZcIj5cbiAgICAgIDxwYXRoIGQ9XCJNOCAwYTggOCAwIDEgMCAwIDE2QTggOCAwIDAgMCA4IDB6bTMuNjY5IDExLjUzOGEuNDk4LjQ5OCAwIDAgMS0uNjg2LjE2NWMtMS44NzktMS4xNDctNC4yNDMtMS40MDctNy4wMjgtLjc3YS40OTkuNDk5IDAgMCAxLS4yMjItLjk3M2MzLjA0OC0uNjk2IDUuNjYyLS4zOTcgNy43Ny44OTJhLjUuNSAwIDAgMSAuMTY2LjY4NnptLjk3OS0yLjE3OGEuNjI0LjYyNCAwIDAgMS0uODU4LjIwNWMtMi4xNS0xLjMyMS01LjQyOC0xLjcwNC03Ljk3Mi0uOTMyYS42MjUuNjI1IDAgMCAxLS4zNjItMS4xOTRjMi45MDUtLjg4MSA2LjUxNy0uNDU0IDguOTg2IDEuMDYzYS42MjQuNjI0IDAgMCAxIC4yMDYuODU4em0uMDg0LTIuMjY4QzEwLjE1NCA1LjU2IDUuOSA1LjQxOSAzLjQzOCA2LjE2NmEuNzQ4Ljc0OCAwIDEgMS0uNDM0LTEuNDMyYzIuODI1LS44NTcgNy41MjMtLjY5MiAxMC40OTIgMS4wN2EuNzQ3Ljc0NyAwIDEgMS0uNzY0IDEuMjg4elwiLz5cbiAgICA8L3N2Zz5cbiAgICBTcG90aWZ5IFByb2ZpbGVcbiAgPC9hPlxuICA8c3BhbiBjbGFzcz1cInRleHQtbXV0ZWRcIiBzdHlsZT1cImZvbnQtc2l6ZTogMC44NzVyZW07XCI+KlVwZGF0ZWQ6ICR7bXVzaWNEYXRhLmxhc3RfdXBkYXRlZC5zdWJzdHJpbmcoMCwxMCl9Kjwvc3Bhbj5cbjwvZGl2PlxuYFxuIn1dfQ==
-</script>
-<script type="module">
-if (window.location.protocol === "file:") { alert("The OJS runtime does not work with file:// URLs. Please use a web server to view this document."); }
-window._ojs.paths.runtimeToDoc = "../..";
-window._ojs.paths.runtimeToRoot = "../..";
-window._ojs.paths.docToRoot = "";
-window._ojs.selfContained = false;
-window._ojs.runtime.interpretFromScriptTags();
-</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
