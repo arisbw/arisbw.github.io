@@ -29,7 +29,7 @@ listing:
 
 # Hi, I'm Aris! 👋
 
-Senior Data Analyst at ByteDance with expertise in data science and a passion for fintech innovation. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.
+Data Scientist at Kredivo with expertise in data science and a passion for fintech. I love exploring and sharing knowledge about data analysis, machine learning, and Python programming.
 
 ::: {.social-links}
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/arisbw)
