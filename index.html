@@ -455,23 +455,23 @@ window.Quarto = {
 <h2 id="what-im-currently-into" class="anchored">What I’m Currently Into</h2>
 <h3 id="music" class="anchored">Music 🎵</h3>
 <div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb1" data-startfrom="1" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>musicData <span class="op">=</span> <span class="cf">await</span> <span class="fu">FileAttachment</span>(<span class="st">"_data/music.json"</span>)<span class="op">.</span><span class="fu">json</span>()</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">html</span><span class="vs">`</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;ul&gt;</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="vs">  </span><span class="sc">${</span>musicData<span class="op">.</span><span class="at">top_artists</span><span class="op">.</span><span class="fu">slice</span>(<span class="dv">0</span><span class="op">,</span><span class="dv">5</span>)<span class="op">.</span><span class="fu">map</span>(artist <span class="kw">=&gt;</span> <span class="vs">`&lt;li&gt;</span><span class="sc">${</span>artist<span class="op">.</span><span class="at">name</span><span class="sc">}</span><span class="vs"> (</span><span class="sc">${</span>artist<span class="op">.</span><span class="at">playcount</span><span class="sc">}</span><span class="vs"> plays)&lt;/li&gt;`</span>)<span class="op">.</span><span class="fu">join</span>(<span class="st">''</span>)<span class="sc">}</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/ul&gt;</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;div style="display: flex; align-items: center; gap: 1rem; margin-top: 1rem;"&gt;</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;a href="https://open.spotify.com/user/ynkaqmrfxb88i0hq6ujzjju8z" target="_blank" class="btn btn-success btn-sm" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; padding: 0.25rem 0.75rem; border-radius: 1.5rem;"&gt;</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"&gt;</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.662-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.764 1.288z"/&gt;</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;/svg&gt;</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="vs">    Spotify Profile</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;/a&gt;</span></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;span class="text-muted" style="font-size: 0.875rem;"&gt;*Updated: </span><span class="sc">${</span>musicData<span class="op">.</span><span class="at">last_updated</span><span class="op">.</span><span class="fu">substring</span>(<span class="dv">0</span><span class="op">,</span><span class="dv">10</span>)<span class="sc">}</span><span class="vs">*&lt;/span&gt;</span></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/div&gt;</span></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="vs">`</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code hidden" id="cb1" data-startfrom="62" data-source-offset="-0"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 61;"><span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a>musicData <span class="op">=</span> <span class="cf">await</span> <span class="fu">FileAttachment</span>(<span class="st">"_data/music.json"</span>)<span class="op">.</span><span class="fu">json</span>()</span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a><span class="fu">html</span><span class="vs">`</span></span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;ul&gt;</span></span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a><span class="vs">  </span><span class="sc">${</span>musicData<span class="op">.</span><span class="at">top_artists</span><span class="op">.</span><span class="fu">slice</span>(<span class="dv">0</span><span class="op">,</span><span class="dv">5</span>)<span class="op">.</span><span class="fu">map</span>(artist <span class="kw">=&gt;</span> <span class="vs">`&lt;li&gt;</span><span class="sc">${</span>artist<span class="op">.</span><span class="at">name</span><span class="sc">}</span><span class="vs"> (</span><span class="sc">${</span>artist<span class="op">.</span><span class="at">playcount</span><span class="sc">}</span><span class="vs"> plays)&lt;/li&gt;`</span>)<span class="op">.</span><span class="fu">join</span>(<span class="st">''</span>)<span class="sc">}</span></span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/ul&gt;</span></span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;div style="display: flex; align-items: center; gap: 1rem; margin-top: 1rem;"&gt;</span></span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;a href="https://open.spotify.com/user/ynkaqmrfxb88i0hq6ujzjju8z" target="_blank" class="btn btn-success btn-sm" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; padding: 0.25rem 0.75rem; border-radius: 1.5rem;"&gt;</span></span>
+<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16"&gt;</span></span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a><span class="vs">      &lt;path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.662-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.764 1.288z"/&gt;</span></span>
+<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a><span class="vs">    &lt;/svg&gt;</span></span>
+<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a><span class="vs">    Spotify Profile</span></span>
+<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;/a&gt;</span></span>
+<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a><span class="vs">  &lt;span class="text-muted" style="font-size: 0.875rem;"&gt;*Updated: </span><span class="sc">${</span>musicData<span class="op">.</span><span class="at">last_updated</span><span class="op">.</span><span class="fu">substring</span>(<span class="dv">0</span><span class="op">,</span><span class="dv">10</span>)<span class="sc">}</span><span class="vs">*&lt;/span&gt;</span></span>
+<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a><span class="vs">&lt;/div&gt;</span></span>
+<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a><span class="vs">`</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-display">
 <div>
 <div id="ojs-cell-1-1" data-nodetype="declaration">
@@ -515,7 +515,7 @@ window.Quarto = {
 <h2 id="featured-posts" class="anchored">Featured Posts</h2>
 <div id="listing-featured-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cHl0aG9uJTJDbWFjaGluZS1sZWFybmluZyUyQ3RlY2g=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775296715571" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<div class="quarto-post image-right" data-index="0" data-categories="cHl0aG9uJTJDbWFjaGluZS1sZWFybmluZyUyQ3RlY2g=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775296862466" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/machine-learning-intro.html" class="no-external">Introduction to Machine Learning</a>
@@ -541,7 +541,7 @@ Mar 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="cGVyc29uYWwlMkNsaWZl" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775296715571" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<div class="quarto-post image-right" data-index="1" data-categories="cGVyc29uYWwlMkNsaWZl" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775296862466" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/my-journey.html" class="no-external">My Journey into Tech</a>
@@ -565,7 +565,7 @@ Mar 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ3BlcnNvbmFs" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775296715571" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ3BlcnNvbmFs" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1775296862466" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/welcome-post.html" class="no-external">Welcome to My Blog!</a>
