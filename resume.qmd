@@ -23,7 +23,7 @@ You can view my resume directly on this page or download it as a PDF.
 Feel free to reach out to me through:
 
 - Email: <script type="text/javascript">
-    var user = "arisbw";
+    var user = "arisbuw";
     var domain = "gmail.com";  // Change this to your actual provider
     document.write('<a href="mailto:' + user + '@' + domain + '">' + user + '@' + domain + '</a>');
   </script><noscript>[Email protected - please enable JavaScript]</noscript>
