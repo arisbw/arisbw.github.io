@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-04-05T17:21:40.345278",
+  "last_updated": "2026-04-12T17:26:34.492870",
   "top_artists": [
     {
-      "name": "\u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc",
-      "playcount": 25,
-      "url": "https://www.last.fm/music/%E3%82%B5%E3%83%B3%E3%83%9C%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC"
+      "name": "Marvin Gaye",
+      "playcount": 10,
+      "url": "https://www.last.fm/music/Marvin+Gaye"
     },
     {
-      "name": "Chicago",
-      "playcount": 21,
-      "url": "https://www.last.fm/music/Chicago"
+      "name": "George Benson",
+      "playcount": 9,
+      "url": "https://www.last.fm/music/George+Benson"
+    },
+    {
+      "name": "Leon Ware",
+      "playcount": 9,
+      "url": "https://www.last.fm/music/Leon+Ware"
     },
     {
       "name": "The National",
-      "playcount": 14,
+      "playcount": 9,
       "url": "https://www.last.fm/music/The+National"
     },
     {
-      "name": "Jamiroquai",
+      "name": "Sade",
       "playcount": 8,
-      "url": "https://www.last.fm/music/Jamiroquai"
-    },
-    {
-      "name": "Bobby Caldwell",
-      "playcount": 5,
-      "url": "https://www.last.fm/music/Bobby+Caldwell"
+      "url": "https://www.last.fm/music/Sade"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "The National",
-      "name": "Gospel",
-      "album": "Boxer",
-      "url": "https://www.last.fm/music/The+National/_/Gospel"
+      "artist": "Robert Lester Folsom",
+      "name": "Love is",
+      "album": "Ode To A Rainy Day: Archives 1972-1975",
+      "url": "https://www.last.fm/music/Robert+Lester+Folsom/_/Love+is"
     },
     {
-      "artist": "The National",
-      "name": "Gospel",
-      "album": "Boxer",
-      "url": "https://www.last.fm/music/The+National/_/Gospel"
+      "artist": "Female Species",
+      "name": "Coast To Coast",
+      "album": "Tale Of My Lost Love",
+      "url": "https://www.last.fm/music/Female+Species/_/Coast+To+Coast"
     },
     {
-      "artist": "The National",
-      "name": "Gospel",
-      "album": "Boxer",
-      "url": "https://www.last.fm/music/The+National/_/Gospel"
+      "artist": "Monik",
+      "name": "Thank You",
+      "album": "Thank You",
+      "url": "https://www.last.fm/music/Monik/_/Thank+You"
     },
     {
-      "artist": "The National",
-      "name": "Gospel",
-      "album": "Boxer",
-      "url": "https://www.last.fm/music/The+National/_/Gospel"
+      "artist": "The Clientele",
+      "name": "We Could Walk Together",
+      "album": "Suburban Light",
+      "url": "https://www.last.fm/music/The+Clientele/_/We+Could+Walk+Together"
     },
     {
-      "artist": "The National",
-      "name": "Gospel",
-      "album": "Boxer",
-      "url": "https://www.last.fm/music/The+National/_/Gospel"
+      "artist": "Kitty Craft",
+      "name": "Alright",
+      "album": "Beats and Breaks from the Flower Patch",
+      "url": "https://www.last.fm/music/Kitty+Craft/_/Alright"
     },
     {
-      "artist": "The National",
-      "name": "Gospel",
-      "album": "Boxer",
-      "url": "https://www.last.fm/music/The+National/_/Gospel"
+      "artist": "The Electric Prunes",
+      "name": "Onie",
+      "album": "I Had Too Much To Dream (Last Night)",
+      "url": "https://www.last.fm/music/The+Electric+Prunes/_/Onie"
     },
     {
-      "artist": "War",
-      "name": "Why Can't We Be Friends",
-      "album": "Why Can't We Be Friends?",
-      "url": "https://www.last.fm/music/War/_/Why+Can%27t+We+Be+Friends"
+      "artist": "Pharoah Sanders",
+      "name": "Love Is Everywhere",
+      "album": "Wisdom Through Music",
+      "url": "https://www.last.fm/music/Pharoah+Sanders/_/Love+Is+Everywhere"
     },
     {
-      "artist": "Jamiroquai",
-      "name": "Seven Days in Sunny June",
-      "album": "Dynamite",
-      "url": "https://www.last.fm/music/Jamiroquai/_/Seven+Days+in+Sunny+June"
+      "artist": "Black Sugar",
+      "name": "When I Needed Someone",
+      "album": "Black Sugar",
+      "url": "https://www.last.fm/music/Black+Sugar/_/When+I+Needed+Someone"
     },
     {
-      "artist": "Santana",
-      "name": "Smooth (feat. Rob Thomas)",
-      "album": "Supernatural (Legacy Edition)",
-      "url": "https://www.last.fm/music/Santana/_/Smooth+(feat.+Rob+Thomas)"
+      "artist": "Milton Wright",
+      "name": "The Silence That You Keep",
+      "album": "FRIENDS and BUDDIES",
+      "url": "https://www.last.fm/music/Milton+Wright/_/The+Silence+That+You+Keep"
     },
     {
-      "artist": "Stardust",
-      "name": "Music Sounds Better With You",
-      "album": "Music Sounds Better With You",
-      "url": "https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You"
+      "artist": "Menahan Street Band",
+      "name": "Midnight Morning",
+      "album": "The Exciting Sounds of Menahan Street Band",
+      "url": "https://www.last.fm/music/Menahan+Street+Band/_/Midnight+Morning"
     }
   ]
 }
