@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-04-19T17:27:30.718071",
+  "last_updated": "2026-04-26T17:30:30.991964",
   "top_artists": [
     {
-      "name": "The National",
-      "playcount": 70,
-      "url": "https://www.last.fm/music/The+National"
-    },
-    {
-      "name": "Hiroshi Kitadani",
-      "playcount": 66,
-      "url": "https://www.last.fm/music/Hiroshi+Kitadani"
+      "name": "\u7c73\u6d25\u7384\u5e2b",
+      "playcount": 79,
+      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB"
     },
     {
       "name": "ASIAN KUNG-FU GENERATION",
-      "playcount": 52,
+      "playcount": 47,
       "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION"
     },
     {
-      "name": "Interpol",
-      "playcount": 5,
-      "url": "https://www.last.fm/music/Interpol"
+      "name": "Hitsujibungaku",
+      "playcount": 34,
+      "url": "https://www.last.fm/music/Hitsujibungaku"
     },
     {
-      "name": "Quincy Jones",
-      "playcount": 5,
-      "url": "https://www.last.fm/music/Quincy+Jones"
+      "name": "Dua Ibu",
+      "playcount": 18,
+      "url": "https://www.last.fm/music/Dua+Ibu"
+    },
+    {
+      "name": "Soushi Sakiyama",
+      "playcount": 10,
+      "url": "https://www.last.fm/music/Soushi+Sakiyama"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "Soushi Sakiyama",
+      "name": "\u71c8",
+      "album": "\u71c8",
+      "url": "https://www.last.fm/music/Soushi+Sakiyama/_/%E7%87%88"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "Soushi Sakiyama",
+      "name": "\u71c8",
+      "album": "\u71c8",
+      "url": "https://www.last.fm/music/Soushi+Sakiyama/_/%E7%87%88"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "Soushi Sakiyama",
+      "name": "\u71c8",
+      "album": "\u71c8",
+      "url": "https://www.last.fm/music/Soushi+Sakiyama/_/%E7%87%88"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "Al Jarreau",
+      "name": "We're in This Love Together",
+      "album": "Breakin' Away",
+      "url": "https://www.last.fm/music/Al+Jarreau/_/We%27re+in+This+Love+Together"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "Barry White",
+      "name": "September When I First Met You",
+      "album": "The Man",
+      "url": "https://www.last.fm/music/Barry+White/_/September+When+I+First+Met+You"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "The Manhattan Transfer",
+      "name": "Spice of Life",
+      "album": "Bodies and Souls",
+      "url": "https://www.last.fm/music/The+Manhattan+Transfer/_/Spice+of+Life"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "Shalamar",
+      "name": "A Night To Remember",
+      "album": "Friends",
+      "url": "https://www.last.fm/music/Shalamar/_/A+Night+To+Remember"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "Boz Scaggs",
+      "name": "JoJo (2023 Remaster)",
+      "album": "Middle Man (2023 Remaster)",
+      "url": "https://www.last.fm/music/Boz+Scaggs/_/JoJo+(2023+Remaster)"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "\u30b5\u30cb\u30fc\u30c7\u30a4\u30fb\u30b5\u30fc\u30d3\u30b9",
+      "name": "koi ni ochitara",
+      "album": "Tokyo Remastered",
+      "url": "https://www.last.fm/music/%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/_/koi+ni+ochitara"
     },
     {
-      "artist": "ASIAN KUNG-FU GENERATION",
-      "name": "\u30bd\u30e9\u30cb\u30f3",
-      "album": "\u30bd\u30e9\u30cb\u30f3",
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3"
+      "artist": "yonige",
+      "name": "\u6625\u306e\u5d50",
+      "album": "HOUSE",
+      "url": "https://www.last.fm/music/yonige/_/%E6%98%A5%E3%81%AE%E5%B5%90"
     }
   ]
 }
