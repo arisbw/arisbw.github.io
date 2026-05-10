@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-05-03T17:38:01.307804",
+  "last_updated": "2026-05-10T17:41:33.161208",
   "top_artists": [
     {
-      "name": "Marvin Gaye",
-      "playcount": 15,
-      "url": "https://www.last.fm/music/Marvin+Gaye"
+      "name": "Charlie Wilson",
+      "playcount": 12,
+      "url": "https://www.last.fm/music/Charlie+Wilson"
     },
     {
-      "name": "ASIAN KUNG-FU GENERATION",
-      "playcount": 14,
-      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION"
+      "name": "Bobbi Humphrey",
+      "playcount": 5,
+      "url": "https://www.last.fm/music/Bobbi+Humphrey"
     },
     {
-      "name": "Earth, Wind & Fire",
-      "playcount": 14,
-      "url": "https://www.last.fm/music/Earth,+Wind+&+Fire"
+      "name": "Lonnie Liston Smith",
+      "playcount": 5,
+      "url": "https://www.last.fm/music/Lonnie+Liston+Smith"
     },
     {
-      "name": "Quincy Jones",
-      "playcount": 14,
-      "url": "https://www.last.fm/music/Quincy+Jones"
+      "name": "Donald Byrd",
+      "playcount": 4,
+      "url": "https://www.last.fm/music/Donald+Byrd"
     },
     {
-      "name": "Soushi Sakiyama",
-      "playcount": 14,
-      "url": "https://www.last.fm/music/Soushi+Sakiyama"
+      "name": "Chic",
+      "playcount": 3,
+      "url": "https://www.last.fm/music/Chic"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Tokyo Incidents",
-      "name": "\u4fee\u7f85\u5834 - adult ver.",
-      "album": "\u5927\u4eba",
-      "url": "https://www.last.fm/music/Tokyo+Incidents/_/%E4%BF%AE%E7%BE%85%E5%A0%B4+-+adult+ver."
+      "artist": "Chic",
+      "name": "Savoir Faire - 2018 Remaster",
+      "album": "C'est Chic (2018 Remaster)",
+      "url": "https://www.last.fm/music/Chic/_/Savoir+Faire+-+2018+Remaster"
     },
     {
-      "artist": "Skinshape",
-      "name": "I Won't Be There",
-      "album": "Life & Love",
-      "url": "https://www.last.fm/music/Skinshape/_/I+Won%27t+Be+There"
+      "artist": "Bobbi Humphrey",
+      "name": "You Make Me Feel So Good",
+      "album": "Fancy Dancer (Reissue)",
+      "url": "https://www.last.fm/music/Bobbi+Humphrey/_/You+Make+Me+Feel+So+Good"
     },
     {
-      "artist": "Yusuke Hirado",
-      "name": "Taxi Driver Theme",
-      "album": "Speak Own Words",
-      "url": "https://www.last.fm/music/Yusuke+Hirado/_/Taxi+Driver+Theme"
+      "artist": "Lonnie Liston Smith",
+      "name": "Enchantress",
+      "album": "Love Is The Answer (Expanded)",
+      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Enchantress"
     },
     {
-      "artist": "Sufjan Stevens",
-      "name": "Futile Devices",
-      "album": "The Age of Adz",
-      "url": "https://www.last.fm/music/Sufjan+Stevens/_/Futile+Devices"
+      "artist": "Idris Muhammad",
+      "name": "Piece Of Mind",
+      "album": "Power of Soul",
+      "url": "https://www.last.fm/music/Idris+Muhammad/_/Piece+Of+Mind"
     },
     {
-      "artist": "JAM Project",
-      "name": "THE HERO !!: Ikareru Kobushi ni Hi o Tsukero",
-      "album": "THE HERO !! \uff5e\u6012\u308c\u308b\u62f3\u306b\u706b\u3092\u3064\u3051\u308d\uff5e",
-      "url": "https://www.last.fm/music/JAM+Project/_/THE+HERO+!!:+Ikareru+Kobushi+ni+Hi+o+Tsukero"
+      "artist": "Donny Hathaway",
+      "name": "Memory of Our Love",
+      "album": "Never My Love: The Anthology",
+      "url": "https://www.last.fm/music/Donny+Hathaway/_/Memory+of+Our+Love"
     },
     {
-      "artist": "Jamiroquai",
-      "name": "Radio - Remastered 2006",
-      "album": "High Times: Singles 1992-2006 (Remastered)",
-      "url": "https://www.last.fm/music/Jamiroquai/_/Radio+-+Remastered+2006"
+      "artist": "Quincy Jones",
+      "name": "Body Heat",
+      "album": "Body Heat",
+      "url": "https://www.last.fm/music/Quincy+Jones/_/Body+Heat"
     },
     {
-      "artist": "L'Arc~en~Ciel",
-      "name": "flower",
-      "album": "True",
-      "url": "https://www.last.fm/music/L%27Arc~en~Ciel/_/flower"
+      "artist": "Gene Dunlap",
+      "name": "It's Just the Way I Feel",
+      "album": "It's Just the Way I Feel (feat. The Ridgeways)",
+      "url": "https://www.last.fm/music/Gene+Dunlap/_/It%27s+Just+the+Way+I+Feel"
     },
     {
-      "artist": "Kunto Aji",
-      "name": "Rehat",
-      "album": "Mantra Mantra",
-      "url": "https://www.last.fm/music/Kunto+Aji/_/Rehat"
+      "artist": "Donald Byrd",
+      "name": "I Feel Like Loving You Today",
+      "album": "Love Has Come Around - Finest Moments",
+      "url": "https://www.last.fm/music/Donald+Byrd/_/I+Feel+Like+Loving+You+Today"
     },
     {
-      "artist": "Saybia",
-      "name": "The Second You Sleep",
-      "album": "The Second You Sleep",
-      "url": "https://www.last.fm/music/Saybia/_/The+Second+You+Sleep"
+      "artist": "Ramp",
+      "name": "Come Into Knowledge",
+      "album": "Come Into Knowledge",
+      "url": "https://www.last.fm/music/Ramp/_/Come+Into+Knowledge"
     },
     {
-      "artist": "Empire of the Sun",
-      "name": "Walking on a Dream",
-      "album": "Walking on a Dream",
-      "url": "https://www.last.fm/music/Empire+of+the+Sun/_/Walking+on+a+Dream"
+      "artist": "Lonnie Liston Smith",
+      "name": "A Chance for Peace",
+      "album": "Visions Of A New World",
+      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/A+Chance+for+Peace"
     }
   ]
 }
