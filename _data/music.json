@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-05-10T17:41:33.161208",
+  "last_updated": "2026-05-17T17:48:04.882409",
   "top_artists": [
     {
-      "name": "Charlie Wilson",
-      "playcount": 12,
-      "url": "https://www.last.fm/music/Charlie+Wilson"
+      "name": "\u7167\u4e95\u9806\u653f",
+      "playcount": 20,
+      "url": "https://www.last.fm/music/%E7%85%A7%E4%BA%95%E9%A0%86%E6%94%BF"
     },
     {
-      "name": "Bobbi Humphrey",
-      "playcount": 5,
-      "url": "https://www.last.fm/music/Bobbi+Humphrey"
+      "name": "The National",
+      "playcount": 11,
+      "url": "https://www.last.fm/music/The+National"
     },
     {
-      "name": "Lonnie Liston Smith",
-      "playcount": 5,
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith"
+      "name": "Sade",
+      "playcount": 9,
+      "url": "https://www.last.fm/music/Sade"
     },
     {
-      "name": "Donald Byrd",
+      "name": "Fall Out Boy",
       "playcount": 4,
-      "url": "https://www.last.fm/music/Donald+Byrd"
+      "url": "https://www.last.fm/music/Fall+Out+Boy"
     },
     {
-      "name": "Chic",
+      "name": "Kenta Matsukuma",
       "playcount": 3,
-      "url": "https://www.last.fm/music/Chic"
+      "url": "https://www.last.fm/music/Kenta+Matsukuma"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Chic",
-      "name": "Savoir Faire - 2018 Remaster",
-      "album": "C'est Chic (2018 Remaster)",
-      "url": "https://www.last.fm/music/Chic/_/Savoir+Faire+-+2018+Remaster"
+      "artist": "Sade",
+      "name": "Nothing Can Come Between Us",
+      "album": "Stronger Than Pride",
+      "url": "https://www.last.fm/music/Sade/_/Nothing+Can+Come+Between+Us"
     },
     {
-      "artist": "Bobbi Humphrey",
-      "name": "You Make Me Feel So Good",
-      "album": "Fancy Dancer (Reissue)",
-      "url": "https://www.last.fm/music/Bobbi+Humphrey/_/You+Make+Me+Feel+So+Good"
+      "artist": "Sade",
+      "name": "Nothing Can Come Between Us",
+      "album": "Stronger Than Pride",
+      "url": "https://www.last.fm/music/Sade/_/Nothing+Can+Come+Between+Us"
     },
     {
-      "artist": "Lonnie Liston Smith",
-      "name": "Enchantress",
-      "album": "Love Is The Answer (Expanded)",
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Enchantress"
+      "artist": "Sade",
+      "name": "Nothing Can Come Between Us",
+      "album": "Stronger Than Pride",
+      "url": "https://www.last.fm/music/Sade/_/Nothing+Can+Come+Between+Us"
     },
     {
-      "artist": "Idris Muhammad",
-      "name": "Piece Of Mind",
-      "album": "Power of Soul",
-      "url": "https://www.last.fm/music/Idris+Muhammad/_/Piece+Of+Mind"
+      "artist": "The Blackbyrds",
+      "name": "Walking in Rhythm",
+      "album": "Flying Start",
+      "url": "https://www.last.fm/music/The+Blackbyrds/_/Walking+in+Rhythm"
     },
     {
-      "artist": "Donny Hathaway",
-      "name": "Memory of Our Love",
-      "album": "Never My Love: The Anthology",
-      "url": "https://www.last.fm/music/Donny+Hathaway/_/Memory+of+Our+Love"
+      "artist": "Patrice Rushen",
+      "name": "Music Of The Earth",
+      "album": "Patrice (Remastered)",
+      "url": "https://www.last.fm/music/Patrice+Rushen/_/Music+Of+The+Earth"
     },
     {
-      "artist": "Quincy Jones",
-      "name": "Body Heat",
-      "album": "Body Heat",
-      "url": "https://www.last.fm/music/Quincy+Jones/_/Body+Heat"
+      "artist": "Gino Vannelli",
+      "name": "The River Must Flow",
+      "album": "Brother To Brother",
+      "url": "https://www.last.fm/music/Gino+Vannelli/_/The+River+Must+Flow"
     },
     {
-      "artist": "Gene Dunlap",
-      "name": "It's Just the Way I Feel",
-      "album": "It's Just the Way I Feel (feat. The Ridgeways)",
-      "url": "https://www.last.fm/music/Gene+Dunlap/_/It%27s+Just+the+Way+I+Feel"
+      "artist": "Player",
+      "name": "Givin' It All",
+      "album": "A Room With A View",
+      "url": "https://www.last.fm/music/Player/_/Givin%27+It+All"
     },
     {
-      "artist": "Donald Byrd",
-      "name": "I Feel Like Loving You Today",
-      "album": "Love Has Come Around - Finest Moments",
-      "url": "https://www.last.fm/music/Donald+Byrd/_/I+Feel+Like+Loving+You+Today"
+      "artist": "Steely Dan",
+      "name": "Peg",
+      "album": "Aja",
+      "url": "https://www.last.fm/music/Steely+Dan/_/Peg"
     },
     {
-      "artist": "Ramp",
-      "name": "Come Into Knowledge",
-      "album": "Come Into Knowledge",
-      "url": "https://www.last.fm/music/Ramp/_/Come+Into+Knowledge"
+      "artist": "Pages",
+      "name": "If I Saw You Again (2024 Remaster)",
+      "album": "Pages (2024 Remaster)",
+      "url": "https://www.last.fm/music/Pages/_/If+I+Saw+You+Again+(2024+Remaster)"
     },
     {
-      "artist": "Lonnie Liston Smith",
-      "name": "A Chance for Peace",
-      "album": "Visions Of A New World",
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/A+Chance+for+Peace"
+      "artist": "Earth, Wind & Fire",
+      "name": "Love's Holiday",
+      "album": "All 'N All",
+      "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/Love%27s+Holiday"
     }
   ]
 }
