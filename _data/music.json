@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-05-31T17:53:50.986690",
+  "last_updated": "2026-06-07T17:57:49.314719",
   "top_artists": [
     {
-      "name": "\u7c73\u6d25\u7384\u5e2b",
-      "playcount": 44,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB"
+      "name": "The National",
+      "playcount": 67,
+      "url": "https://www.last.fm/music/The+National"
     },
     {
-      "name": "Simple Minds",
-      "playcount": 26,
-      "url": "https://www.last.fm/music/Simple+Minds"
+      "name": "betcover!!",
+      "playcount": 60,
+      "url": "https://www.last.fm/music/betcover!!"
     },
     {
-      "name": "SPYAIR",
-      "playcount": 13,
-      "url": "https://www.last.fm/music/SPYAIR"
+      "name": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3",
+      "playcount": 34,
+      "url": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
     },
     {
-      "name": "Ohzora Kimishima",
-      "playcount": 11,
-      "url": "https://www.last.fm/music/Ohzora+Kimishima"
+      "name": "\u77f3\u539f\u614e\u4e00",
+      "playcount": 8,
+      "url": "https://www.last.fm/music/%E7%9F%B3%E5%8E%9F%E6%85%8E%E4%B8%80"
     },
     {
-      "name": "Antonello Venditti",
-      "playcount": 6,
-      "url": "https://www.last.fm/music/Antonello+Venditti"
+      "name": "Al Jarreau",
+      "playcount": 5,
+      "url": "https://www.last.fm/music/Al+Jarreau"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "The Brand New Heavies",
-      "name": "Don't Let It Go To Your Head",
-      "album": "Brand New Heavies",
-      "url": "https://www.last.fm/music/The+Brand+New+Heavies/_/Don%27t+Let+It+Go+To+Your+Head"
+      "artist": "Stevie Wonder",
+      "name": "As",
+      "album": "Songs in the Key of Life",
+      "url": "https://www.last.fm/music/Stevie+Wonder/_/As"
     },
     {
-      "artist": "Angela Bofill",
-      "name": "Is This A Dream",
-      "album": "Too Tough",
-      "url": "https://www.last.fm/music/Angela+Bofill/_/Is+This+A+Dream"
+      "artist": "Rick James",
+      "name": "Give It To Me Baby",
+      "album": "Street Songs (Deluxe Edition)",
+      "url": "https://www.last.fm/music/Rick+James/_/Give+It+To+Me+Baby"
     },
     {
-      "artist": "Ashford & Simpson",
-      "name": "Solid",
-      "album": "Solid",
-      "url": "https://www.last.fm/music/Ashford+&+Simpson/_/Solid"
+      "artist": "Curtis Mayfield",
+      "name": "Move On Up",
+      "album": "People Never Give Up",
+      "url": "https://www.last.fm/music/Curtis+Mayfield/_/Move+On+Up"
     },
     {
-      "artist": "Rippingtons",
-      "name": "Till You Come Back To Me",
-      "album": "Wild Card",
-      "url": "https://www.last.fm/music/Rippingtons/_/Till+You+Come+Back+To+Me"
+      "artist": "Average White Band",
+      "name": "Pick Up the Pieces",
+      "album": "Average White Band",
+      "url": "https://www.last.fm/music/Average+White+Band/_/Pick+Up+the+Pieces"
     },
     {
-      "artist": "Huey Lewis",
-      "name": "Cruisin' - Single Edit",
-      "album": "Greatest Hits: Huey Lewis And The News",
-      "url": "https://www.last.fm/music/Huey+Lewis/_/Cruisin%27+-+Single+Edit"
+      "artist": "Patrice Rushen",
+      "name": "Forget Me Nots - Remastered",
+      "album": "Straight from the Heart (Remastered)",
+      "url": "https://www.last.fm/music/Patrice+Rushen/_/Forget+Me+Nots+-+Remastered"
     },
     {
-      "artist": "Foreigner",
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "album": "Agent Provocateur",
-      "url": "https://www.last.fm/music/Foreigner/_/I+Want+to+Know+What+Love+Is+-+1999+Remaster"
+      "artist": "Marvin Gaye",
+      "name": "Inner City Blues (Make Me Wanna Holler)",
+      "album": "What's Going On",
+      "url": "https://www.last.fm/music/Marvin+Gaye/_/Inner+City+Blues+(Make+Me+Wanna+Holler)"
     },
     {
-      "artist": "Timex Social Club",
-      "name": "Rumors",
-      "album": "Late Night Tales Presents Automatic Soul (Selected and Mixed By Groove Armada's Tom Findlay)",
-      "url": "https://www.last.fm/music/Timex+Social+Club/_/Rumors"
+      "artist": "Jamiroquai",
+      "name": "Canned Heat",
+      "album": "Synkronized",
+      "url": "https://www.last.fm/music/Jamiroquai/_/Canned+Heat"
     },
     {
-      "artist": "Count Basic",
-      "name": "Jazz In The House",
-      "album": "Life Think It Over",
-      "url": "https://www.last.fm/music/Count+Basic/_/Jazz+In+The+House"
+      "artist": "Marvin Gaye",
+      "name": "Got To Give It Up - Pt. 1",
+      "album": "Marvin Gaye & A Distant Lover",
+      "url": "https://www.last.fm/music/Marvin+Gaye/_/Got+To+Give+It+Up+-+Pt.+1"
     },
     {
-      "artist": "Kyoto Jazz Massive",
-      "name": "Endless Flight",
-      "album": "10th Anniversary",
-      "url": "https://www.last.fm/music/Kyoto+Jazz+Massive/_/Endless+Flight"
+      "artist": "Marlena Shaw",
+      "name": "California Soul",
+      "album": "The Spice Of Life",
+      "url": "https://www.last.fm/music/Marlena+Shaw/_/California+Soul"
     },
     {
-      "artist": "Grover Washington, Jr.",
-      "name": "Mister Magic",
-      "album": "Mister Magic",
-      "url": "https://www.last.fm/music/Grover+Washington,+Jr./_/Mister+Magic"
+      "artist": "Chic",
+      "name": "Good Times",
+      "album": "Risqu\u00e9",
+      "url": "https://www.last.fm/music/Chic/_/Good+Times"
     }
   ]
 }
