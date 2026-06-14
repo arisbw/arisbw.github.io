@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-06-07T17:57:49.314719",
+  "last_updated": "2026-06-14T18:06:35.890588",
   "top_artists": [
     {
+      "name": "Paula Cole",
+      "playcount": 87,
+      "url": "https://www.last.fm/music/Paula+Cole"
+    },
+    {
+      "name": "Robbie Williams",
+      "playcount": 44,
+      "url": "https://www.last.fm/music/Robbie+Williams"
+    },
+    {
+      "name": "Boyz II Men",
+      "playcount": 24,
+      "url": "https://www.last.fm/music/Boyz+II+Men"
+    },
+    {
+      "name": "\u7c73\u6d25\u7384\u5e2b",
+      "playcount": 17,
+      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB"
+    },
+    {
       "name": "The National",
-      "playcount": 67,
+      "playcount": 14,
       "url": "https://www.last.fm/music/The+National"
-    },
-    {
-      "name": "betcover!!",
-      "playcount": 60,
-      "url": "https://www.last.fm/music/betcover!!"
-    },
-    {
-      "name": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3",
-      "playcount": 34,
-      "url": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
-    },
-    {
-      "name": "\u77f3\u539f\u614e\u4e00",
-      "playcount": 8,
-      "url": "https://www.last.fm/music/%E7%9F%B3%E5%8E%9F%E6%85%8E%E4%B8%80"
-    },
-    {
-      "name": "Al Jarreau",
-      "playcount": 5,
-      "url": "https://www.last.fm/music/Al+Jarreau"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Stevie Wonder",
-      "name": "As",
-      "album": "Songs in the Key of Life",
-      "url": "https://www.last.fm/music/Stevie+Wonder/_/As"
+      "artist": "Billy Joel",
+      "name": "New York State Of Mind",
+      "album": "Turnstiles",
+      "url": "https://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind"
     },
     {
-      "artist": "Rick James",
-      "name": "Give It To Me Baby",
-      "album": "Street Songs (Deluxe Edition)",
-      "url": "https://www.last.fm/music/Rick+James/_/Give+It+To+Me+Baby"
+      "artist": "Billy Joel",
+      "name": "New York State Of Mind",
+      "album": "Turnstiles",
+      "url": "https://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind"
     },
     {
-      "artist": "Curtis Mayfield",
-      "name": "Move On Up",
-      "album": "People Never Give Up",
-      "url": "https://www.last.fm/music/Curtis+Mayfield/_/Move+On+Up"
+      "artist": "Billy Joel",
+      "name": "New York State Of Mind",
+      "album": "Turnstiles",
+      "url": "https://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind"
     },
     {
-      "artist": "Average White Band",
-      "name": "Pick Up the Pieces",
-      "album": "Average White Band",
-      "url": "https://www.last.fm/music/Average+White+Band/_/Pick+Up+the+Pieces"
+      "artist": "Billy Joel",
+      "name": "New York State Of Mind",
+      "album": "Turnstiles",
+      "url": "https://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind"
     },
     {
-      "artist": "Patrice Rushen",
-      "name": "Forget Me Nots - Remastered",
-      "album": "Straight from the Heart (Remastered)",
-      "url": "https://www.last.fm/music/Patrice+Rushen/_/Forget+Me+Nots+-+Remastered"
+      "artist": "Billy Joel",
+      "name": "New York State Of Mind",
+      "album": "Turnstiles",
+      "url": "https://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind"
     },
     {
-      "artist": "Marvin Gaye",
-      "name": "Inner City Blues (Make Me Wanna Holler)",
-      "album": "What's Going On",
-      "url": "https://www.last.fm/music/Marvin+Gaye/_/Inner+City+Blues+(Make+Me+Wanna+Holler)"
+      "artist": "The National",
+      "name": "Light Years",
+      "album": "I Am Easy To Find",
+      "url": "https://www.last.fm/music/The+National/_/Light+Years"
     },
     {
-      "artist": "Jamiroquai",
-      "name": "Canned Heat",
-      "album": "Synkronized",
-      "url": "https://www.last.fm/music/Jamiroquai/_/Canned+Heat"
+      "artist": "Billy Joel",
+      "name": "New York State Of Mind",
+      "album": "Turnstiles",
+      "url": "https://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind"
     },
     {
-      "artist": "Marvin Gaye",
-      "name": "Got To Give It Up - Pt. 1",
-      "album": "Marvin Gaye & A Distant Lover",
-      "url": "https://www.last.fm/music/Marvin+Gaye/_/Got+To+Give+It+Up+-+Pt.+1"
+      "artist": "Hubert Laws",
+      "name": "Land of Passion",
+      "album": "Land of Passion (Bonus Track Version)",
+      "url": "https://www.last.fm/music/Hubert+Laws/_/Land+of+Passion"
     },
     {
-      "artist": "Marlena Shaw",
-      "name": "California Soul",
-      "album": "The Spice Of Life",
-      "url": "https://www.last.fm/music/Marlena+Shaw/_/California+Soul"
+      "artist": "The National",
+      "name": "Light Years",
+      "album": "I Am Easy To Find",
+      "url": "https://www.last.fm/music/The+National/_/Light+Years"
     },
     {
-      "artist": "Chic",
-      "name": "Good Times",
-      "album": "Risqu\u00e9",
-      "url": "https://www.last.fm/music/Chic/_/Good+Times"
+      "artist": "The National",
+      "name": "Light Years",
+      "album": "I Am Easy To Find",
+      "url": "https://www.last.fm/music/The+National/_/Light+Years"
     }
   ]
 }
