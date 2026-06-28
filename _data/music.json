@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-06-21T18:13:52.943388",
+  "last_updated": "2026-06-28T17:58:13.786549",
   "top_artists": [
     {
-      "name": "Thundercat",
-      "playcount": 36,
-      "url": "https://www.last.fm/music/Thundercat"
+      "name": "Jamiroquai",
+      "playcount": 39,
+      "url": "https://www.last.fm/music/Jamiroquai"
     },
     {
-      "name": "Billy Joel",
-      "playcount": 35,
-      "url": "https://www.last.fm/music/Billy+Joel"
+      "name": "Donald Byrd",
+      "playcount": 6,
+      "url": "https://www.last.fm/music/Donald+Byrd"
     },
     {
-      "name": "\u5927\u5cf6\u30df\u30c1\u30eb",
-      "playcount": 26,
-      "url": "https://www.last.fm/music/%E5%A4%A7%E5%B3%B6%E3%83%9F%E3%83%81%E3%83%AB"
+      "name": "Marvin Gaye",
+      "playcount": 6,
+      "url": "https://www.last.fm/music/Marvin+Gaye"
     },
     {
-      "name": "Morelenbaum\u00b2 / Sakamoto",
-      "playcount": 16,
-      "url": "https://www.last.fm/music/Morelenbaum%C2%B2+%2F+Sakamoto"
+      "name": "Roy Ayers Ubiquity",
+      "playcount": 6,
+      "url": "https://www.last.fm/music/Roy+Ayers+Ubiquity"
     },
     {
-      "name": "Elliott Smith",
-      "playcount": 15,
-      "url": "https://www.last.fm/music/Elliott+Smith"
+      "name": "Earth, Wind & Fire",
+      "playcount": 5,
+      "url": "https://www.last.fm/music/Earth,+Wind+&+Fire"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Brothers Johnson",
-      "name": "Caught Up",
-      "album": "Winners (Expanded Edition)",
-      "url": "https://www.last.fm/music/Brothers+Johnson/_/Caught+Up"
+      "artist": "Don Blackman",
+      "name": "Heart's Desire",
+      "album": "Don Blackman",
+      "url": "https://www.last.fm/music/Don+Blackman/_/Heart%27s+Desire"
     },
     {
-      "artist": "The Ebonys",
-      "name": "A Love of Your Own",
-      "album": "Sing About Life",
-      "url": "https://www.last.fm/music/The+Ebonys/_/A+Love+of+Your+Own"
+      "artist": "Ronnie Laws",
+      "name": "Always There",
+      "album": "Pressure Sensitive",
+      "url": "https://www.last.fm/music/Ronnie+Laws/_/Always+There"
     },
     {
-      "artist": "Donny Hathaway",
-      "name": "Valdez in the Country",
-      "album": "Extension of a Man",
-      "url": "https://www.last.fm/music/Donny+Hathaway/_/Valdez+in+the+Country"
+      "artist": "Dee Edwards",
+      "name": "(I Can) Deal With That",
+      "album": "Searching for Soul: Soul, Funk & Jazz Rarities from Michigan 1968-1980",
+      "url": "https://www.last.fm/music/Dee+Edwards/_/(I+Can)+Deal+With+That"
     },
     {
-      "artist": "The Crusaders",
-      "name": "Keep That Same Old Feeling",
-      "album": "Those Southern Knights",
-      "url": "https://www.last.fm/music/The+Crusaders/_/Keep+That+Same+Old+Feeling"
+      "artist": "The Dramatics",
+      "name": "Whatcha See Is Whatcha Get",
+      "album": "Whatcha See Is Whatcha Get [Stax Remasters]",
+      "url": "https://www.last.fm/music/The+Dramatics/_/Whatcha+See+Is+Whatcha+Get"
     },
     {
-      "artist": "Quincy Jones",
-      "name": "Betcha Wouldn't Hurt Me - Extended Version",
-      "album": "The Dude",
-      "url": "https://www.last.fm/music/Quincy+Jones/_/Betcha+Wouldn%27t+Hurt+Me+-+Extended+Version"
+      "artist": "The Jones Girls",
+      "name": "When I'm Gone",
+      "album": "At Peace With Woman",
+      "url": "https://www.last.fm/music/The+Jones+Girls/_/When+I%27m+Gone"
     },
     {
-      "artist": "Heatwave",
-      "name": "All You Do Is Dial",
-      "album": "Too Hot To Handle (Expanded Edition)",
-      "url": "https://www.last.fm/music/Heatwave/_/All+You+Do+Is+Dial"
+      "artist": "Chic",
+      "name": "Open Up",
+      "album": "Real People",
+      "url": "https://www.last.fm/music/Chic/_/Open+Up"
     },
     {
-      "artist": "Isaac Hayes",
-      "name": "What Does It Take",
-      "album": "Don't Let Go (Expanded Edition)",
-      "url": "https://www.last.fm/music/Isaac+Hayes/_/What+Does+It+Take"
+      "artist": "MFSB",
+      "name": "Mysteries Of The World",
+      "album": "Mysteries of the World",
+      "url": "https://www.last.fm/music/MFSB/_/Mysteries+Of+The+World"
     },
     {
-      "artist": "Brass Construction",
-      "name": "Movin'",
-      "album": "Brass Construction",
-      "url": "https://www.last.fm/music/Brass+Construction/_/Movin%27"
+      "artist": "Joe Simon",
+      "name": "Before The Night Is Over",
+      "album": "Easy To Love / A Bad Case Of Love",
+      "url": "https://www.last.fm/music/Joe+Simon/_/Before+The+Night+Is+Over"
     },
     {
-      "artist": "Herbie Hancock",
-      "name": "Stars in Your Eyes",
-      "album": "Monster",
-      "url": "https://www.last.fm/music/Herbie+Hancock/_/Stars+in+Your+Eyes"
+      "artist": "Curtis Mayfield",
+      "name": "Give Me Your Love (Love Song)",
+      "album": "Superfly: Deluxe 25th Anniversary Edition",
+      "url": "https://www.last.fm/music/Curtis+Mayfield/_/Give+Me+Your+Love+(Love+Song)"
     },
     {
-      "artist": "The Gap Band",
-      "name": "Outstanding - Original 12\" Mix",
-      "album": "The Best Of The Gap Band",
-      "url": "https://www.last.fm/music/The+Gap+Band/_/Outstanding+-+Original+12%22+Mix"
+      "artist": "Roy Ayers Ubiquity",
+      "name": "Running Away",
+      "album": "Lifeline",
+      "url": "https://www.last.fm/music/Roy+Ayers+Ubiquity/_/Running+Away"
     }
   ]
 }
