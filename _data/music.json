@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-07-12T17:49:33.109628",
+  "last_updated": "2026-07-19T17:47:01.319081",
   "top_artists": [
     {
-      "name": "George Benson",
-      "playcount": 6,
-      "url": "https://www.last.fm/music/George+Benson"
+      "name": "Tatsuya Kitani",
+      "playcount": 35,
+      "url": "https://www.last.fm/music/Tatsuya+Kitani"
     },
     {
-      "name": "Donald Byrd",
-      "playcount": 4,
-      "url": "https://www.last.fm/music/Donald+Byrd"
+      "name": "Chic",
+      "playcount": 2,
+      "url": "https://www.last.fm/music/Chic"
     },
     {
-      "name": "Gene Harris",
-      "playcount": 4,
-      "url": "https://www.last.fm/music/Gene+Harris"
+      "name": "The Blackbyrds",
+      "playcount": 2,
+      "url": "https://www.last.fm/music/The+Blackbyrds"
     },
     {
-      "name": "Michael Jackson",
-      "playcount": 4,
-      "url": "https://www.last.fm/music/Michael+Jackson"
+      "name": "Black Sugar",
+      "playcount": 1,
+      "url": "https://www.last.fm/music/Black+Sugar"
     },
     {
-      "name": "Ronnie Foster",
-      "playcount": 4,
-      "url": "https://www.last.fm/music/Ronnie+Foster"
+      "name": "Bobbi Humphrey",
+      "playcount": 1,
+      "url": "https://www.last.fm/music/Bobbi+Humphrey"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Herbie Hancock",
-      "name": "Come Running to Me",
-      "album": "Sunlight",
-      "url": "https://www.last.fm/music/Herbie+Hancock/_/Come+Running+to+Me"
+      "artist": "Odyssey",
+      "name": "Our Lives Are Shaped By What We Love",
+      "album": "Odyssey",
+      "url": "https://www.last.fm/music/Odyssey/_/Our+Lives+Are+Shaped+By+What+We+Love"
     },
     {
-      "artist": "Gene Harris",
-      "name": "Love Talkin'",
-      "album": "Astral Signal",
-      "url": "https://www.last.fm/music/Gene+Harris/_/Love+Talkin%27"
+      "artist": "Black Sugar",
+      "name": "When I Needed Someone",
+      "album": "Black Sugar",
+      "url": "https://www.last.fm/music/Black+Sugar/_/When+I+Needed+Someone"
     },
     {
-      "artist": "Angela Bofill",
-      "name": "The Only Thing I Would Wish For",
-      "album": "Angie (Expanded Edition)",
-      "url": "https://www.last.fm/music/Angela+Bofill/_/The+Only+Thing+I+Would+Wish+For"
+      "artist": "Donald Byrd",
+      "name": "Woman Of The World",
+      "album": "Street Lady",
+      "url": "https://www.last.fm/music/Donald+Byrd/_/Woman+Of+The+World"
     },
     {
-      "artist": "Pieces Of A Dream",
-      "name": "Warm Weather - 12\" Version",
-      "album": "Pieces of a Dream",
-      "url": "https://www.last.fm/music/Pieces+Of+A+Dream/_/Warm+Weather+-+12%22+Version"
+      "artist": "Chic",
+      "name": "Savoir Faire - 2018 Remaster",
+      "album": "C'est Chic (2018 Remaster)",
+      "url": "https://www.last.fm/music/Chic/_/Savoir+Faire+-+2018+Remaster"
     },
     {
-      "artist": "George Benson",
-      "name": "Dinorah, Dinorah",
-      "album": "Give Me the Night",
-      "url": "https://www.last.fm/music/George+Benson/_/Dinorah,+Dinorah"
+      "artist": "Roy Ayers Ubiquity",
+      "name": "Sweet Tears",
+      "album": "He's Coming",
+      "url": "https://www.last.fm/music/Roy+Ayers+Ubiquity/_/Sweet+Tears"
     },
     {
-      "artist": "Gene Harris",
-      "name": "Losalamitoslatinfunklovesong",
-      "album": "Astral Signal",
-      "url": "https://www.last.fm/music/Gene+Harris/_/Losalamitoslatinfunklovesong"
+      "artist": "The Blackbyrds",
+      "name": "Flying High",
+      "album": "City Life",
+      "url": "https://www.last.fm/music/The+Blackbyrds/_/Flying+High"
     },
     {
-      "artist": "Bobby Caldwell",
-      "name": "My Flame",
-      "album": "What You Won't Do For Love",
-      "url": "https://www.last.fm/music/Bobby+Caldwell/_/My+Flame"
+      "artist": "The Montclairs",
+      "name": "Dreaming's Out of Season",
+      "album": "Dreaming Out of Season",
+      "url": "https://www.last.fm/music/The+Montclairs/_/Dreaming%27s+Out+of+Season"
     },
     {
-      "artist": "Herbie Hancock",
-      "name": "Making Love",
-      "album": "Monster",
-      "url": "https://www.last.fm/music/Herbie+Hancock/_/Making+Love"
+      "artist": "The Beginning Of The End",
+      "name": "Bluestrain",
+      "album": "The Beginning of the End",
+      "url": "https://www.last.fm/music/The+Beginning+Of+The+End/_/Bluestrain"
     },
     {
-      "artist": "Lonnie Liston Smith",
-      "name": "Goddess Of Love",
-      "album": "Reflections Of A Golden Dream",
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Goddess+Of+Love"
+      "artist": "Deodato",
+      "name": "Skatin'",
+      "album": "Night Cruiser",
+      "url": "https://www.last.fm/music/Deodato/_/Skatin%27"
     },
     {
-      "artist": "Lonnie Liston Smith",
-      "name": "Goddess Of Love",
-      "album": "Reflections Of A Golden Dream",
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Goddess+Of+Love"
+      "artist": "T-Connection",
+      "name": "Let's Do It Today",
+      "album": "Totally Connected",
+      "url": "https://www.last.fm/music/T-Connection/_/Let%27s+Do+It+Today"
     }
   ]
 }
