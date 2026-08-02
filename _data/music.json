@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-07-26T17:53:08.895048",
+  "last_updated": "2026-08-02T17:52:09.425987",
   "top_artists": [
     {
-      "name": "Drake",
-      "playcount": 5,
-      "url": "https://www.last.fm/music/Drake"
+      "name": "\u30b7\u30fc\u30ca\u30a2\u30ad\u30b3",
+      "playcount": 19,
+      "url": "https://www.last.fm/music/%E3%82%B7%E3%83%BC%E3%83%8A%E3%82%A2%E3%82%AD%E3%82%B3"
     },
     {
-      "name": "Journey",
-      "playcount": 5,
-      "url": "https://www.last.fm/music/Journey"
+      "name": "Keane",
+      "playcount": 13,
+      "url": "https://www.last.fm/music/Keane"
+    },
+    {
+      "name": "My Chemical Romance",
+      "playcount": 8,
+      "url": "https://www.last.fm/music/My+Chemical+Romance"
     },
     {
       "name": "Bobbi Humphrey",
-      "playcount": 4,
+      "playcount": 3,
       "url": "https://www.last.fm/music/Bobbi+Humphrey"
     },
     {
-      "name": "Gene Harris",
-      "playcount": 4,
-      "url": "https://www.last.fm/music/Gene+Harris"
-    },
-    {
-      "name": "[unknown]",
+      "name": "Donald Byrd",
       "playcount": 3,
-      "url": "https://www.last.fm/music/%5Bunknown%5D"
+      "url": "https://www.last.fm/music/Donald+Byrd"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Heatwave",
-      "name": "Ain't No Half Steppin'",
-      "album": "Too Hot To Handle (Expanded Edition)",
-      "url": "https://www.last.fm/music/Heatwave/_/Ain%27t+No+Half+Steppin%27"
+      "artist": "Dexter Wansel",
+      "name": "First Light Of The Morning",
+      "album": "What The World Is Coming To",
+      "url": "https://www.last.fm/music/Dexter+Wansel/_/First+Light+Of+The+Morning"
     },
     {
-      "artist": "Sylvia Striplin",
-      "name": "You Can't Turn Me Away",
-      "album": "Late night Tales: Another Late Night - Zero 7",
-      "url": "https://www.last.fm/music/Sylvia+Striplin/_/You+Can%27t+Turn+Me+Away"
+      "artist": "Bobbi Humphrey",
+      "name": "Blacks And Blues",
+      "album": "Blacks And Blues",
+      "url": "https://www.last.fm/music/Bobbi+Humphrey/_/Blacks+And+Blues"
     },
     {
-      "artist": "Leroy Hutson",
-      "name": "Classy Lady - Remastered Version",
-      "album": "Paradise (Remastered)",
-      "url": "https://www.last.fm/music/Leroy+Hutson/_/Classy+Lady+-+Remastered+Version"
+      "artist": "Gene Harris",
+      "name": "Cristo Redentor - Pt II",
+      "album": "Tone Tantrum",
+      "url": "https://www.last.fm/music/Gene+Harris/_/Cristo+Redentor+-+Pt+II"
+    },
+    {
+      "artist": "George Benson",
+      "name": "No Sooner Said Than Done",
+      "album": "Bad Benson",
+      "url": "https://www.last.fm/music/George+Benson/_/No+Sooner+Said+Than+Done"
+    },
+    {
+      "artist": "The Blackbyrds",
+      "name": "Love is Love",
+      "album": "Flying Start",
+      "url": "https://www.last.fm/music/The+Blackbyrds/_/Love+is+Love"
+    },
+    {
+      "artist": "Ronnie Laws",
+      "name": "Never Be The Same",
+      "album": "Pressure Sensitive",
+      "url": "https://www.last.fm/music/Ronnie+Laws/_/Never+Be+The+Same"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "name": "Quiet Moments",
+      "album": "Exotic Mysteries",
+      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Quiet+Moments"
+    },
+    {
+      "artist": "Lonnie Liston Smith",
+      "name": "Summer Days",
+      "album": "Expansions",
+      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Summer+Days"
     },
     {
       "artist": "Donald Byrd",
-      "name": "Dominoes",
-      "album": "Places and Spaces",
-      "url": "https://www.last.fm/music/Donald+Byrd/_/Dominoes"
+      "name": "Stepping Into Tomorrow",
+      "album": "Stepping Into Tomorrow",
+      "url": "https://www.last.fm/music/Donald+Byrd/_/Stepping+Into+Tomorrow"
     },
     {
-      "artist": "Roberta Flack",
-      "name": "Back Together Again (feat. Donny Hathaway)",
-      "album": "A Donny Hathaway Collection",
-      "url": "https://www.last.fm/music/Roberta+Flack/_/Back+Together+Again+(feat.+Donny+Hathaway)"
-    },
-    {
-      "artist": "Leo's Sunshipp",
-      "name": "Give Me the Sunshine",
-      "album": "We Need Each Other",
-      "url": "https://www.last.fm/music/Leo%27s+Sunshipp/_/Give+Me+the+Sunshine"
-    },
-    {
-      "artist": "Brothers Johnson",
-      "name": "Tomorrow",
-      "album": "Look Out For #1",
-      "url": "https://www.last.fm/music/Brothers+Johnson/_/Tomorrow"
-    },
-    {
-      "artist": "The Futures",
-      "name": "Ain't No Time Fa Nuthin' - 12\" Version",
-      "album": "Past, Present And The Futures",
-      "url": "https://www.last.fm/music/The+Futures/_/Ain%27t+No+Time+Fa+Nuthin%27+-+12%22+Version"
-    },
-    {
-      "artist": "Archie Bell and The Drells",
-      "name": "Strategy",
-      "album": "Strategy",
-      "url": "https://www.last.fm/music/Archie+Bell+and+The+Drells/_/Strategy"
-    },
-    {
-      "artist": "Quincy Jones",
-      "name": "Betcha Wouldn't Hurt Me",
-      "album": "Quincy Jones - The Best",
-      "url": "https://www.last.fm/music/Quincy+Jones/_/Betcha+Wouldn%27t+Hurt+Me"
+      "artist": "Azymuth",
+      "name": "Orange Clouds",
+      "album": "F\u00eanix",
+      "url": "https://www.last.fm/music/Azymuth/_/Orange+Clouds"
     }
   ]
 }
