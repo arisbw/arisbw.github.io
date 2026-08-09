@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-08-02T17:52:09.425987",
+  "last_updated": "2026-08-09T17:20:22.864198",
   "top_artists": [
     {
-      "name": "\u30b7\u30fc\u30ca\u30a2\u30ad\u30b3",
-      "playcount": 19,
-      "url": "https://www.last.fm/music/%E3%82%B7%E3%83%BC%E3%83%8A%E3%82%A2%E3%82%AD%E3%82%B3"
+      "name": "The National",
+      "playcount": 106,
+      "url": "https://www.last.fm/music/The+National"
     },
     {
-      "name": "Keane",
-      "playcount": 13,
-      "url": "https://www.last.fm/music/Keane"
+      "name": "Roy Ayers Ubiquity",
+      "playcount": 4,
+      "url": "https://www.last.fm/music/Roy+Ayers+Ubiquity"
     },
     {
-      "name": "My Chemical Romance",
-      "playcount": 8,
-      "url": "https://www.last.fm/music/My+Chemical+Romance"
-    },
-    {
-      "name": "Bobbi Humphrey",
+      "name": "Lonnie Liston Smith",
       "playcount": 3,
-      "url": "https://www.last.fm/music/Bobbi+Humphrey"
+      "url": "https://www.last.fm/music/Lonnie+Liston+Smith"
     },
     {
-      "name": "Donald Byrd",
+      "name": "The Blackbyrds",
       "playcount": 3,
-      "url": "https://www.last.fm/music/Donald+Byrd"
+      "url": "https://www.last.fm/music/The+Blackbyrds"
+    },
+    {
+      "name": "Curtis Mayfield",
+      "playcount": 2,
+      "url": "https://www.last.fm/music/Curtis+Mayfield"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Dexter Wansel",
-      "name": "First Light Of The Morning",
-      "album": "What The World Is Coming To",
-      "url": "https://www.last.fm/music/Dexter+Wansel/_/First+Light+Of+The+Morning"
+      "artist": "Fleet Foxes",
+      "name": "Third of May / \u014cdaigahara - Edit",
+      "album": "Third of May / \u014cdaigahara (Edit)",
+      "url": "https://www.last.fm/music/Fleet+Foxes/_/Third+of+May+%2F+%C5%8Cdaigahara+-+Edit"
     },
     {
-      "artist": "Bobbi Humphrey",
-      "name": "Blacks And Blues",
-      "album": "Blacks And Blues",
-      "url": "https://www.last.fm/music/Bobbi+Humphrey/_/Blacks+And+Blues"
+      "artist": "Bin Idris",
+      "name": "Jalan Bebas Hambatan",
+      "album": "bin idris",
+      "url": "https://www.last.fm/music/Bin+Idris/_/Jalan+Bebas+Hambatan"
     },
     {
-      "artist": "Gene Harris",
-      "name": "Cristo Redentor - Pt II",
-      "album": "Tone Tantrum",
-      "url": "https://www.last.fm/music/Gene+Harris/_/Cristo+Redentor+-+Pt+II"
+      "artist": "The Cribs",
+      "name": "Men's Needs",
+      "album": "Men's Needs, Women's Needs, Whatever (Standard Version)",
+      "url": "https://www.last.fm/music/The+Cribs/_/Men%27s+Needs"
     },
     {
-      "artist": "George Benson",
-      "name": "No Sooner Said Than Done",
-      "album": "Bad Benson",
-      "url": "https://www.last.fm/music/George+Benson/_/No+Sooner+Said+Than+Done"
+      "artist": "Crumb",
+      "name": "Ghostride",
+      "album": "Jinx",
+      "url": "https://www.last.fm/music/Crumb/_/Ghostride"
     },
     {
-      "artist": "The Blackbyrds",
-      "name": "Love is Love",
-      "album": "Flying Start",
-      "url": "https://www.last.fm/music/The+Blackbyrds/_/Love+is+Love"
+      "artist": "Beach Fossils",
+      "name": "This Year",
+      "album": "Somersault",
+      "url": "https://www.last.fm/music/Beach+Fossils/_/This+Year"
     },
     {
-      "artist": "Ronnie Laws",
-      "name": "Never Be The Same",
-      "album": "Pressure Sensitive",
-      "url": "https://www.last.fm/music/Ronnie+Laws/_/Never+Be+The+Same"
+      "artist": "Jakob",
+      "name": "Velvet Light",
+      "album": "Velvet Light",
+      "url": "https://www.last.fm/music/Jakob/_/Velvet+Light"
     },
     {
-      "artist": "Lonnie Liston Smith",
-      "name": "Quiet Moments",
-      "album": "Exotic Mysteries",
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Quiet+Moments"
+      "artist": "The Changcuters",
+      "name": "Hijrah Ke London",
+      "album": "Mencoba Sukses Kembali",
+      "url": "https://www.last.fm/music/The+Changcuters/_/Hijrah+Ke+London"
     },
     {
-      "artist": "Lonnie Liston Smith",
-      "name": "Summer Days",
-      "album": "Expansions",
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Summer+Days"
+      "artist": "Dreams We've Had",
+      "name": "Perfectly Out of Place",
+      "album": "Everything and You",
+      "url": "https://www.last.fm/music/Dreams+We%27ve+Had/_/Perfectly+Out+of+Place"
     },
     {
-      "artist": "Donald Byrd",
-      "name": "Stepping Into Tomorrow",
-      "album": "Stepping Into Tomorrow",
-      "url": "https://www.last.fm/music/Donald+Byrd/_/Stepping+Into+Tomorrow"
+      "artist": "Alvvays",
+      "name": "Archie, Marry Me",
+      "album": "Alvvays",
+      "url": "https://www.last.fm/music/Alvvays/_/Archie,+Marry+Me"
     },
     {
-      "artist": "Azymuth",
-      "name": "Orange Clouds",
-      "album": "F\u00eanix",
-      "url": "https://www.last.fm/music/Azymuth/_/Orange+Clouds"
+      "artist": "The Brazen Youth",
+      "name": "Burn Slowly/ I Love You",
+      "album": "Primitive Initiative",
+      "url": "https://www.last.fm/music/The+Brazen+Youth/_/Burn+Slowly%2F+I+Love+You"
     }
   ]
 }
