@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-08-09T17:20:22.864198",
+  "last_updated": "2026-08-16T17:10:31.219089",
   "top_artists": [
     {
-      "name": "The National",
-      "playcount": 106,
-      "url": "https://www.last.fm/music/The+National"
-    },
-    {
-      "name": "Roy Ayers Ubiquity",
-      "playcount": 4,
-      "url": "https://www.last.fm/music/Roy+Ayers+Ubiquity"
-    },
-    {
       "name": "Lonnie Liston Smith",
-      "playcount": 3,
+      "playcount": 4,
       "url": "https://www.last.fm/music/Lonnie+Liston+Smith"
     },
     {
-      "name": "The Blackbyrds",
+      "name": "\u5742\u672c\u9f8d\u4e00",
       "playcount": 3,
-      "url": "https://www.last.fm/music/The+Blackbyrds"
+      "url": "https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80"
     },
     {
-      "name": "Curtis Mayfield",
+      "name": "Little Beaver",
       "playcount": 2,
-      "url": "https://www.last.fm/music/Curtis+Mayfield"
+      "url": "https://www.last.fm/music/Little+Beaver"
+    },
+    {
+      "name": "Roy Ayers Ubiquity",
+      "playcount": 2,
+      "url": "https://www.last.fm/music/Roy+Ayers+Ubiquity"
+    },
+    {
+      "name": "Sunbear",
+      "playcount": 2,
+      "url": "https://www.last.fm/music/Sunbear"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Fleet Foxes",
-      "name": "Third of May / \u014cdaigahara - Edit",
-      "album": "Third of May / \u014cdaigahara (Edit)",
-      "url": "https://www.last.fm/music/Fleet+Foxes/_/Third+of+May+%2F+%C5%8Cdaigahara+-+Edit"
+      "artist": "Vansire",
+      "name": "Halcyon Age",
+      "album": "Angel Youth",
+      "url": "https://www.last.fm/music/Vansire/_/Halcyon+Age"
     },
     {
-      "artist": "Bin Idris",
-      "name": "Jalan Bebas Hambatan",
-      "album": "bin idris",
-      "url": "https://www.last.fm/music/Bin+Idris/_/Jalan+Bebas+Hambatan"
+      "artist": "Here We Go Magic",
+      "name": "How Do I Know",
+      "album": "A Different Ship",
+      "url": "https://www.last.fm/music/Here+We+Go+Magic/_/How+Do+I+Know"
     },
     {
-      "artist": "The Cribs",
-      "name": "Men's Needs",
-      "album": "Men's Needs, Women's Needs, Whatever (Standard Version)",
-      "url": "https://www.last.fm/music/The+Cribs/_/Men%27s+Needs"
+      "artist": "Sufjan Stevens",
+      "name": "To Be Alone With You",
+      "album": "Seven Swans",
+      "url": "https://www.last.fm/music/Sufjan+Stevens/_/To+Be+Alone+With+You"
     },
     {
-      "artist": "Crumb",
-      "name": "Ghostride",
-      "album": "Jinx",
-      "url": "https://www.last.fm/music/Crumb/_/Ghostride"
+      "artist": "The Sundays",
+      "name": "Goodbye",
+      "album": "Blind",
+      "url": "https://www.last.fm/music/The+Sundays/_/Goodbye"
     },
     {
-      "artist": "Beach Fossils",
-      "name": "This Year",
-      "album": "Somersault",
-      "url": "https://www.last.fm/music/Beach+Fossils/_/This+Year"
+      "artist": "The Voidz",
+      "name": "Leave It In My Dreams",
+      "album": "Virtue",
+      "url": "https://www.last.fm/music/The+Voidz/_/Leave+It+In+My+Dreams"
     },
     {
-      "artist": "Jakob",
-      "name": "Velvet Light",
-      "album": "Velvet Light",
-      "url": "https://www.last.fm/music/Jakob/_/Velvet+Light"
+      "artist": "Wild Nothing",
+      "name": "Shadow",
+      "album": "Nocturne",
+      "url": "https://www.last.fm/music/Wild+Nothing/_/Shadow"
     },
     {
-      "artist": "The Changcuters",
-      "name": "Hijrah Ke London",
-      "album": "Mencoba Sukses Kembali",
-      "url": "https://www.last.fm/music/The+Changcuters/_/Hijrah+Ke+London"
+      "artist": "Lyla Foy",
+      "name": "Impossible",
+      "album": "Mirrors The Sky",
+      "url": "https://www.last.fm/music/Lyla+Foy/_/Impossible"
     },
     {
-      "artist": "Dreams We've Had",
-      "name": "Perfectly Out of Place",
-      "album": "Everything and You",
-      "url": "https://www.last.fm/music/Dreams+We%27ve+Had/_/Perfectly+Out+of+Place"
+      "artist": "Sondre Lerche",
+      "name": "Human Hands",
+      "album": "Duper Sessions",
+      "url": "https://www.last.fm/music/Sondre+Lerche/_/Human+Hands"
     },
     {
-      "artist": "Alvvays",
-      "name": "Archie, Marry Me",
-      "album": "Alvvays",
-      "url": "https://www.last.fm/music/Alvvays/_/Archie,+Marry+Me"
+      "artist": "The Shins",
+      "name": "New Slang - 2021 Remaster",
+      "album": "Oh, Inverted World (20th Anniversary Remaster)",
+      "url": "https://www.last.fm/music/The+Shins/_/New+Slang+-+2021+Remaster"
     },
     {
-      "artist": "The Brazen Youth",
-      "name": "Burn Slowly/ I Love You",
-      "album": "Primitive Initiative",
-      "url": "https://www.last.fm/music/The+Brazen+Youth/_/Burn+Slowly%2F+I+Love+You"
+      "artist": "Passion Pit",
+      "name": "Constant Conversations",
+      "album": "Gossamer",
+      "url": "https://www.last.fm/music/Passion+Pit/_/Constant+Conversations"
     }
   ]
 }
