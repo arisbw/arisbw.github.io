@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-09-20T19:10:08.157214",
+  "last_updated": "2026-09-27T19:54:43.260299",
   "top_artists": [
     {
-      "name": "\u30b9\u30c8\u30ec\u30a4\u30c6\u30ca\u30fc",
-      "playcount": 29,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%86%E3%83%8A%E3%83%BC"
+      "name": "Coldplay",
+      "playcount": 4,
+      "url": "https://www.last.fm/music/Coldplay"
     },
     {
-      "name": "Howl",
-      "playcount": 18,
-      "url": "https://www.last.fm/music/Howl"
+      "name": "Alvvays",
+      "playcount": 3,
+      "url": "https://www.last.fm/music/Alvvays"
     },
     {
-      "name": "Epik High",
-      "playcount": 14,
-      "url": "https://www.last.fm/music/Epik+High"
+      "name": "CHON",
+      "playcount": 3,
+      "url": "https://www.last.fm/music/CHON"
     },
     {
-      "name": "Goo Goo Dolls",
-      "playcount": 7,
-      "url": "https://www.last.fm/music/Goo+Goo+Dolls"
-    },
-    {
-      "name": "Benji Hughes",
+      "name": "Bobbi Humphrey",
       "playcount": 2,
-      "url": "https://www.last.fm/music/Benji+Hughes"
+      "url": "https://www.last.fm/music/Bobbi+Humphrey"
+    },
+    {
+      "name": "Deodato",
+      "playcount": 2,
+      "url": "https://www.last.fm/music/Deodato"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "HALA",
-      "name": "What Is Love? Tell Me, Is It Easy?",
-      "album": "Spoonfed",
-      "url": "https://www.last.fm/music/HALA/_/What+Is+Love%3F+Tell+Me,+Is+It+Easy%3F"
+      "artist": "Bill Summers",
+      "name": "Come Into My Life",
+      "album": "Feel The Heat",
+      "url": "https://www.last.fm/music/Bill+Summers/_/Come+Into+My+Life"
     },
     {
-      "artist": "White Lies",
-      "name": "Tricky to Love",
-      "album": "Big TV",
-      "url": "https://www.last.fm/music/White+Lies/_/Tricky+to+Love"
+      "artist": "Gary Bartz",
+      "name": "Gentle Smiles (Saxy)",
+      "album": "The Shadow Do!",
+      "url": "https://www.last.fm/music/Gary+Bartz/_/Gentle+Smiles+(Saxy)"
     },
     {
-      "artist": "James Taylor",
-      "name": "Love Songs - 2019 Remaster",
-      "album": "Gorilla",
-      "url": "https://www.last.fm/music/James+Taylor/_/Love+Songs+-+2019+Remaster"
+      "artist": "Patrice Rushen",
+      "name": "Music Of The Earth",
+      "album": "Patrice (Remastered)",
+      "url": "https://www.last.fm/music/Patrice+Rushen/_/Music+Of+The+Earth"
     },
     {
-      "artist": "The Bilinda Butchers",
-      "name": "tulips",
-      "album": "regret, love, guilt, dreams",
-      "url": "https://www.last.fm/music/The+Bilinda+Butchers/_/tulips"
+      "artist": "Rasa",
+      "name": "When Will the Day Come",
+      "album": "Everything you see is me",
+      "url": "https://www.last.fm/music/Rasa/_/When+Will+the+Day+Come"
     },
     {
-      "artist": "Modest Mouse",
-      "name": "Float On",
-      "album": "Good News For People Who Love Bad News",
-      "url": "https://www.last.fm/music/Modest+Mouse/_/Float+On"
+      "artist": "Sunrize",
+      "name": "I Need You More Than Words Can Say",
+      "album": "Sunrize",
+      "url": "https://www.last.fm/music/Sunrize/_/I+Need+You+More+Than+Words+Can+Say"
     },
     {
-      "artist": "Daisy",
-      "name": "Way Cool Baby Love",
-      "album": "Smoke About It - EP",
-      "url": "https://www.last.fm/music/Daisy/_/Way+Cool+Baby+Love"
+      "artist": "Leon Ware",
+      "name": "CLUBSASHAY",
+      "album": "Inside Is Love",
+      "url": "https://www.last.fm/music/Leon+Ware/_/CLUBSASHAY"
     },
     {
-      "artist": "Boston",
-      "name": "Can'tcha Say (You Believe In Me) / Still In Love",
-      "album": "Third Stage",
-      "url": "https://www.last.fm/music/Boston/_/Can%27tcha+Say+(You+Believe+In+Me)+%2F+Still+In+Love"
+      "artist": "Eugene Record",
+      "name": "Here Comes The Sun",
+      "album": "The Eugene Record",
+      "url": "https://www.last.fm/music/Eugene+Record/_/Here+Comes+The+Sun"
     },
     {
-      "artist": "Paolo Nutini",
-      "name": "Better Man",
-      "album": "Caustic Love",
-      "url": "https://www.last.fm/music/Paolo+Nutini/_/Better+Man"
+      "artist": "Bobbi Humphrey",
+      "name": "Just A Love Child - Remastered 1999",
+      "album": "Blacks And Blues",
+      "url": "https://www.last.fm/music/Bobbi+Humphrey/_/Just+A+Love+Child+-+Remastered+1999"
     },
     {
-      "artist": "DA PUMP",
-      "name": "Dragon Screamer",
-      "album": "All My Love To You",
-      "url": "https://www.last.fm/music/DA+PUMP/_/Dragon+Screamer"
+      "artist": "Rodney Franklin",
+      "name": "Windy City",
+      "album": "Rodney Franklin",
+      "url": "https://www.last.fm/music/Rodney+Franklin/_/Windy+City"
     },
     {
-      "artist": "Childish Gambino",
-      "name": "Redbone",
-      "album": "\"Awaken, My Love!\"",
-      "url": "https://www.last.fm/music/Childish+Gambino/_/Redbone"
+      "artist": "Leroy Hutson",
+      "name": "Think I'm Falling In Love",
+      "album": "Hutson II",
+      "url": "https://www.last.fm/music/Leroy+Hutson/_/Think+I%27m+Falling+In+Love"
     }
   ]
 }
