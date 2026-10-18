@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.11.5">
+<meta name="generator" content="quarto-1.11.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -40,13 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-3b9ea68436acb9022c2fbce6dbb58b06.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-3572e2e2f69417ab8e71045b87c14ed7.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-3b9ea68436acb9022c2fbce6dbb58b06.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-35fc0813589bbfbfa0b8ec974497eeb2.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-284cb807a0b4295b4349424e40e0017a.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-35fc0813589bbfbfa0b8ec974497eeb2.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-5dfe15a6cf3d1ae3be34094aabafeb58.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -201,13 +202,19 @@ window.Quarto = {
       manageTransitions('#quarto-margin-sidebar .nav-link', true);
       // Switch the toggles
       setColorSchemeToggle(alternate)
-      // Hack to workaround the fact that safari doesn't
-      // properly recolor the scrollbar when toggling (#1455)
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455).
+    // Not run on load: stylesheets are set before first paint there, and
+    // scrolling would undo the scroll to a URL fragment (#14973).
+    // The one pixel nudge keeps the reader where they were.
+    const refreshSafariScrollbar = () => {
       if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
         manageTransitions("body", false);
-        window.scrollTo(0, 1);
+        const scrollY = window.scrollY;
+        window.scrollTo(0, scrollY > 0 ? scrollY - 1 : 1);
         setTimeout(() => {
-          window.scrollTo(0, 0);
+          window.scrollTo(0, scrollY);
           manageTransitions("body", true);
         }, 40);
       }
@@ -301,6 +308,7 @@ window.Quarto = {
       // Read the current dark / light value
       let toAlternate = !hasAlternateSentinel();
       toggleColorMode(toAlternate);
+      refreshSafariScrollbar();
       setStyleSentinel(toAlternate);
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
@@ -422,14 +430,14 @@ window.Quarto = {
 <h2 id="what-im-currently-into" class="anchored">What I’m Currently Into</h2>
 <h3 id="music" class="anchored">Music 🎵</h3>
 <ul>
-<li>Al Jarreau (2 plays)</li>
-<li>Dexter Wansel (2 plays)</li>
-<li>Manchild (2 plays)</li>
-<li>The Blackbyrds (2 plays)</li>
-<li>Bobbi Humphrey (1 plays)</li>
+<li>Fujii Kaze (18 plays)</li>
+<li>Bill LaBounty (12 plays)</li>
+<li>Al Jarreau (6 plays)</li>
+<li>Leon Ware (5 plays)</li>
+<li>Lonnie Liston Smith (5 plays)</li>
 </ul>
 <div style="display: flex; align-items: center; gap: 1rem; margin-top: 1rem;">
-<p><a href="https://open.spotify.com/user/ynkaqmrfxb88i0hq6ujzjju8z" target="_blank" class="btn btn-success btn-sm" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; padding: 0.25rem 0.75rem; border-radius: 1.5rem;"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewbox="0 0 16 16"> <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.662-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.764 1.288z"></path> </svg> Spotify Profile </a> <span class="text-muted" style="font-size: 0.875rem;"><em>Updated: 2026-10-11</em></span></p>
+<p><a href="https://open.spotify.com/user/ynkaqmrfxb88i0hq6ujzjju8z" target="_blank" class="btn btn-success btn-sm" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; padding: 0.25rem 0.75rem; border-radius: 1.5rem;"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewbox="0 0 16 16"> <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm3.669 11.538a.498.498 0 0 1-.686.165c-1.879-1.147-4.243-1.407-7.028-.77a.499.499 0 0 1-.222-.973c3.048-.696 5.662-.397 7.77.892a.5.5 0 0 1 .166.686zm.979-2.178a.624.624 0 0 1-.858.205c-2.15-1.321-5.428-1.704-7.972-.932a.625.625 0 0 1-.362-1.194c2.905-.881 6.517-.454 8.986 1.063a.624.624 0 0 1 .206.858zm.084-2.268C10.154 5.56 5.9 5.419 3.438 6.166a.748.748 0 1 1-.434-1.432c2.825-.857 7.523-.692 10.492 1.07a.747.747 0 1 1-.764 1.288z"></path> </svg> Spotify Profile </a> <span class="text-muted" style="font-size: 0.875rem;"><em>Updated: 2026-10-18</em></span></p>
 </div>
 <h3 id="reading" class="anchored">Reading 📚</h3>
 <ul>
@@ -459,7 +467,7 @@ window.Quarto = {
 <h2 id="featured-posts" class="anchored">Featured Posts</h2>
 <div id="listing-featured-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cHl0aG9uJTJDbWFjaGluZS1sZWFybmluZyUyQ3RlY2g=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1791751253016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<div class="quarto-post image-right" data-index="0" data-categories="cHl0aG9uJTJDbWFjaGluZS1sZWFybmluZyUyQ3RlY2g=" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1792350198339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/machine-learning-intro.html" class="no-external">Introduction to Machine Learning</a>
@@ -485,7 +493,7 @@ Mar 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="cGVyc29uYWwlMkNsaWZl" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1791751253016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
+<div class="quarto-post image-right" data-index="1" data-categories="cGVyc29uYWwlMkNsaWZl" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1792350198339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/my-journey.html" class="no-external">My Journey into Tech</a>
@@ -509,7 +517,7 @@ Mar 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ3BlcnNvbmFs" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1791751253016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ3BlcnNvbmFs" data-listing-date-sort="1740787200000" data-listing-file-modified-sort="1792350198339" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/welcome-post.html" class="no-external">Welcome to My Blog!</a>
@@ -990,6 +998,9 @@ Mar 1, 2025
       }
     }
   });
+  </script>
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Scrollable code","output":"Scrollable output"};
   </script>
 </div> <!-- /content -->
 
