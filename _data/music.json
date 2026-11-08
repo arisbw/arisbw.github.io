@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-11-01T20:53:37.739241",
+  "last_updated": "2026-11-08T20:51:30.800290",
   "top_artists": [
     {
+      "name": "Hiroshi Kitadani",
+      "playcount": 54,
+      "url": "https://www.last.fm/music/Hiroshi+Kitadani"
+    },
+    {
+      "name": "Howl",
+      "playcount": 38,
+      "url": "https://www.last.fm/music/Howl"
+    },
+    {
       "name": "raka",
-      "playcount": 16,
+      "playcount": 30,
       "url": "https://www.last.fm/music/raka"
     },
     {
-      "name": "BADBADNOTGOOD",
-      "playcount": 10,
-      "url": "https://www.last.fm/music/BADBADNOTGOOD"
-    },
-    {
-      "name": "Bobbi Humphrey",
-      "playcount": 6,
-      "url": "https://www.last.fm/music/Bobbi+Humphrey"
-    },
-    {
-      "name": "Sleeping With Sirens",
+      "name": "Gene Harris",
       "playcount": 4,
-      "url": "https://www.last.fm/music/Sleeping+With+Sirens"
+      "url": "https://www.last.fm/music/Gene+Harris"
     },
     {
-      "name": "Herbie Hancock",
-      "playcount": 3,
-      "url": "https://www.last.fm/music/Herbie+Hancock"
+      "name": "Little Beaver",
+      "playcount": 4,
+      "url": "https://www.last.fm/music/Little+Beaver"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "George Benson",
-      "name": "Gonna Love You More",
-      "album": "In Flight",
-      "url": "https://www.last.fm/music/George+Benson/_/Gonna+Love+You+More"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "Leroy Hutson",
-      "name": "Classy Lady - Remastered Version",
-      "album": "Paradise (Remastered)",
-      "url": "https://www.last.fm/music/Leroy+Hutson/_/Classy+Lady+-+Remastered+Version"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "Commodores",
-      "name": "High On Sunshine",
-      "album": "Hot On The Tracks",
-      "url": "https://www.last.fm/music/Commodores/_/High+On+Sunshine"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "Twennynine",
-      "name": "Best of Friends",
-      "album": "Best of Friends",
-      "url": "https://www.last.fm/music/Twennynine/_/Best+of+Friends"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "Twennynine",
-      "name": "Best of Friends",
-      "album": "Best of Friends",
-      "url": "https://www.last.fm/music/Twennynine/_/Best+of+Friends"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "Tavares",
-      "name": "Bad Times",
-      "album": "Supercharged",
-      "url": "https://www.last.fm/music/Tavares/_/Bad+Times"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "Rufus",
-      "name": "Destiny",
-      "album": "Street Player",
-      "url": "https://www.last.fm/music/Rufus/_/Destiny"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "Norman Connors and The Starship Orchestra",
-      "name": "Wouldn't You Like To See",
-      "album": "This Is Your Life",
-      "url": "https://www.last.fm/music/Norman+Connors+and+The+Starship+Orchestra/_/Wouldn%27t+You+Like+To+See"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "BADBADNOTGOOD",
-      "name": "Love Proceeding",
-      "album": "Talk Memory",
-      "url": "https://www.last.fm/music/BADBADNOTGOOD/_/Love+Proceeding"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     },
     {
-      "artist": "BADBADNOTGOOD",
-      "name": "Love Proceeding",
-      "album": "Talk Memory",
-      "url": "https://www.last.fm/music/BADBADNOTGOOD/_/Love+Proceeding"
+      "artist": "Howl",
+      "name": "Perhaps Love",
+      "album": "Princess Hours (Original Television Soundtrack)",
+      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
     }
   ]
 }
