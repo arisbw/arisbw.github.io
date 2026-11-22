@@ -1,92 +1,92 @@
 {
-  "last_updated": "2026-11-15T21:23:52.598750",
+  "last_updated": "2026-11-22T22:12:57.350439",
   "top_artists": [
     {
-      "name": "Dexter Wansel",
+      "name": "BADBADNOTGOOD",
+      "playcount": 99,
+      "url": "https://www.last.fm/music/BADBADNOTGOOD"
+    },
+    {
+      "name": "Kings of Convenience",
+      "playcount": 5,
+      "url": "https://www.last.fm/music/Kings+of+Convenience"
+    },
+    {
+      "name": "Bobbi Humphrey",
+      "playcount": 4,
+      "url": "https://www.last.fm/music/Bobbi+Humphrey"
+    },
+    {
+      "name": "The National",
+      "playcount": 4,
+      "url": "https://www.last.fm/music/The+National"
+    },
+    {
+      "name": "Donald Byrd",
       "playcount": 3,
-      "url": "https://www.last.fm/music/Dexter+Wansel"
-    },
-    {
-      "name": "Roy Ayers",
-      "playcount": 3,
-      "url": "https://www.last.fm/music/Roy+Ayers"
-    },
-    {
-      "name": "Grover Washington, Jr.",
-      "playcount": 2,
-      "url": "https://www.last.fm/music/Grover+Washington,+Jr."
-    },
-    {
-      "name": "Lonnie Liston Smith",
-      "playcount": 2,
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith"
-    },
-    {
-      "name": "Norman Connors and The Starship Orchestra",
-      "playcount": 2,
-      "url": "https://www.last.fm/music/Norman+Connors+and+The+Starship+Orchestra"
+      "url": "https://www.last.fm/music/Donald+Byrd"
     }
   ],
   "recent_tracks": [
     {
-      "artist": "Howl",
-      "name": "Perhaps Love",
-      "album": "Princess Hours (Original Television Soundtrack)",
-      "url": "https://www.last.fm/music/Howl/_/Perhaps+Love"
+      "artist": "The National",
+      "name": "Gospel",
+      "album": "Boxer",
+      "url": "https://www.last.fm/music/The+National/_/Gospel"
     },
     {
-      "artist": "T.S. Monk",
-      "name": "Can't Keep My Hands to Myself",
-      "album": "House of Music",
-      "url": "https://www.last.fm/music/T.S.+Monk/_/Can%27t+Keep+My+Hands+to+Myself"
+      "artist": "The National",
+      "name": "Gospel",
+      "album": "Boxer",
+      "url": "https://www.last.fm/music/The+National/_/Gospel"
     },
     {
-      "artist": "Lonnie Liston Smith",
-      "name": "Enchantress",
-      "album": "Love Is The Answer (Expanded)",
-      "url": "https://www.last.fm/music/Lonnie+Liston+Smith/_/Enchantress"
+      "artist": "The National",
+      "name": "Gospel",
+      "album": "Boxer",
+      "url": "https://www.last.fm/music/The+National/_/Gospel"
     },
     {
-      "artist": "Sister Sledge",
-      "name": "Easier to Love - 1995 Remaster",
-      "album": "We Are Family (1995 Remaster)",
-      "url": "https://www.last.fm/music/Sister+Sledge/_/Easier+to+Love+-+1995+Remaster"
+      "artist": "The National",
+      "name": "Gospel",
+      "album": "Boxer",
+      "url": "https://www.last.fm/music/The+National/_/Gospel"
     },
     {
-      "artist": "Timmy Thomas",
-      "name": "I've Got to See You Tonight - 2004 Remaster",
-      "album": "You're The Song I've Always Wanted To Sing",
-      "url": "https://www.last.fm/music/Timmy+Thomas/_/I%27ve+Got+to+See+You+Tonight+-+2004+Remaster"
+      "artist": "Kings of Convenience",
+      "name": "Cayman Islands",
+      "album": "Riot on an Empty Street",
+      "url": "https://www.last.fm/music/Kings+of+Convenience/_/Cayman+Islands"
     },
     {
-      "artist": "Al Green",
-      "name": "Full of Fire",
-      "album": "Full of Fire",
-      "url": "https://www.last.fm/music/Al+Green/_/Full+of+Fire"
-    },
-    {
-      "artist": "Dexter Wansel",
-      "name": "I'll Never Forget (My Favorite Disco)",
-      "album": "Time Is Slipping Away",
-      "url": "https://www.last.fm/music/Dexter+Wansel/_/I%27ll+Never+Forget+(My+Favorite+Disco)"
-    },
-    {
-      "artist": "Little Beaver",
-      "name": "Groove On",
-      "album": "The Very Best Of Little Beaver",
-      "url": "https://www.last.fm/music/Little+Beaver/_/Groove+On"
-    },
-    {
-      "artist": "A Brief Encounter",
-      "name": "Human",
-      "album": "Human",
-      "url": "https://www.last.fm/music/A+Brief+Encounter/_/Human"
+      "artist": "Kings of Convenience",
+      "name": "Cayman Islands",
+      "album": "Riot on an Empty Street",
+      "url": "https://www.last.fm/music/Kings+of+Convenience/_/Cayman+Islands"
     },
     {
       "artist": "The Blackbyrds",
-      "name": "Summer Love",
-      "album": "The BlackByrds",
-      "url": "https://www.last.fm/music/The+Blackbyrds/_/Summer+Love"
+      "name": "Love So Fine - Remastered 2025",
+      "album": "City Life (Deluxe Edition / Remastered 2025)",
+      "url": "https://www.last.fm/music/The+Blackbyrds/_/Love+So+Fine+-+Remastered+2025"
+    },
+    {
+      "artist": "Kings of Convenience",
+      "name": "Cayman Islands",
+      "album": "Riot on an Empty Street",
+      "url": "https://www.last.fm/music/Kings+of+Convenience/_/Cayman+Islands"
+    },
+    {
+      "artist": "Kings of Convenience",
+      "name": "Cayman Islands",
+      "album": "Riot on an Empty Street",
+      "url": "https://www.last.fm/music/Kings+of+Convenience/_/Cayman+Islands"
+    },
+    {
+      "artist": "Kings of Convenience",
+      "name": "Cayman Islands",
+      "album": "Riot on an Empty Street",
+      "url": "https://www.last.fm/music/Kings+of+Convenience/_/Cayman+Islands"
     }
   ]
 }
