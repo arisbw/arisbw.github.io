@@ -9,11 +9,11 @@
 <link>https://arisbw.github.io/personal-posts.html</link>
 <atom:link href="https://arisbw.github.io/personal-posts.xml" rel="self" type="application/rss+xml"/>
 <description>Senior Data Analyst | Data Science, ML, and Experimentation.</description>
-<generator>quarto-1.12.2</generator>
+<generator>quarto-1.12.3</generator>
 <lastBuildDate>Sat, 01 Mar 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>My Journey into Tech</title>
-  <dc:creator>Me </dc:creator>
+  <dc:creator>Me</dc:creator>
   <link>https://arisbw.github.io/posts/my-journey.html</link>
   <description><![CDATA[ 
 
@@ -54,7 +54,7 @@
 </item>
 <item>
   <title>Welcome to My Blog!</title>
-  <dc:creator>Me </dc:creator>
+  <dc:creator>Me</dc:creator>
   <link>https://arisbw.github.io/posts/welcome-post.html</link>
   <description><![CDATA[ 
 
